@@ -19,4 +19,5 @@ pip install -r requirements.txt
 streamlit run app.py
 
 #### URL
+🌐 Versión online
 https://sommelier-digital-c8pkwar5pcqizp5jzahjrg.streamlit.app/
