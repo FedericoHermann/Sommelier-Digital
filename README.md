@@ -12,6 +12,7 @@ con lenguaje de sommelier.
 - Exploración de opciones similares
 - UX cuidada y enfoque editorial
 
+
 ## 🚀 Cómo ejecutar localmente
 
 ### bash
@@ -21,3 +22,7 @@ streamlit run app.py
 #### URL
 🌐 Versión online
 https://sommelier-digital-c8pkwar5pcqizp5jzahjrg.streamlit.app/
+
+##### MANUAL DE USO
+No dejes de revisar el manual de uso de la app 
+https://github.com/FedericoHermann/Sommelier-Digital/blob/main/Manual.md
