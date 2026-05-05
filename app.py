@@ -1,6 +1,8 @@
 import time
 import streamlit as st
 import streamlit.components.v1 as components
+from src.analytics import plot_radar_chart
+
 
 # =========================================================
 # IMPORT DEL LOGO
@@ -290,10 +292,16 @@ if st.session_state.base_recommendations is not None:
             f"- Segmento: {row['price_segment']}  \n"
             f"- Guarda potencial: {row['aging_potential_years']} años"
         )
+        
         st.caption(
             explain_recommendation(row, st.session_state.user_vector)
         )
+
+        fig = plot_radar_chart(row, st.session_state.user_vector)
+        st.pyplot(fig)
+
         st.markdown("---")
+
 
     st.markdown(
         "_Si querés seguir explorando este perfil, hay más vinos que también podrían sorprenderte._"
