@@ -1,0 +1,1201 @@
+varietal,country,alcohol_pct,acidity,sweetness,tannin,body,complexity,persistence,rating,price_segment,aging_potential_years,aroma_red_fruit,aroma_black_fruit,aroma_floral,aroma_spice,aroma_wood,aroma_mineral,aroma_herbal,aroma_white_yellow_fruit
+Merlot,Spain,15.3,3,5,5,2,3,3,88.3,Entry,4,1,1,0,1,0,1,1,0
+Riesling,Chile,11.0,4,5,1,4,2,5,87.8,Entry,10,1,1,1,1,0,1,1,1
+Zinfandel,Italy,12.7,4,1,3,5,3,5,88.1,Premium,4,0,1,1,1,1,0,1,0
+Cabernet Sauvignon,Spain,12.1,4,4,5,3,1,4,83.3,Icon,2,1,1,1,1,1,1,0,0
+Chenin Blanc,France,12.8,4,4,1,5,5,2,89.7,Icon,13,0,0,0,0,0,0,0,1
+Torrontes,Germany,12.8,3,3,1,3,3,1,90.9,Premium,7,1,0,1,0,0,1,1,1
+Cabernet Sauvignon,Argentina,11.3,5,3,4,3,3,1,86.9,Ultra Premium,14,0,0,0,1,0,0,1,0
+Merlot,Portugal,14.2,2,2,4,5,3,1,85.7,Icon,4,1,0,0,0,0,0,0,0
+Bonarda,Australia,12.3,4,2,2,5,1,5,95.7,Icon,12,1,1,1,1,0,1,1,1
+Merlot,Argentina,12.2,3,1,4,5,1,3,80.1,Icon,9,1,0,0,0,1,1,1,0
+Zinfandel,Chile,12.0,1,4,1,1,2,4,84.4,Ultra Premium,2,0,0,0,0,1,0,0,0
+Carmenere,France,13.3,5,1,1,3,2,5,88.8,Icon,6,1,0,1,0,0,1,0,1
+Carmenere,Chile,12.7,4,2,3,1,1,4,89.1,Icon,3,1,1,0,1,0,1,0,0
+Semillon,Spain,13.9,4,1,1,2,1,3,86.1,Entry,18,0,0,1,1,0,0,1,1
+Garnacha,Portugal,13.3,1,2,1,4,5,5,95.9,Ultra Premium,9,0,0,0,1,1,0,1,0
+Malbec,Germany,14.8,1,4,4,3,1,3,97.5,Premium,14,1,1,1,0,1,0,0,0
+Bonarda,Argentina,11.1,5,4,3,1,1,4,89.2,Premium,14,1,1,1,0,0,1,1,0
+Cabernet Sauvignon,USA,13.3,4,1,5,4,5,3,90.3,Icon,17,1,0,1,1,1,0,1,0
+Tempranillo,Italy,14.4,5,5,1,5,3,4,95.4,Ultra Premium,1,1,0,1,1,0,1,0,1
+Cabernet Franc,Germany,11.3,2,2,3,2,2,2,93.3,Entry,9,0,1,1,0,0,1,0,0
+Cabernet Franc,France,14.9,5,4,2,1,4,5,83.5,Icon,14,1,1,1,0,0,0,1,1
+Cabernet Sauvignon,France,13.0,3,1,2,5,2,2,80.5,Icon,10,1,0,1,0,1,0,0,0
+Pinot Noir,USA,12.2,4,5,4,5,4,3,91.5,Icon,16,0,1,1,1,1,0,0,0
+Semillon,Australia,12.1,2,5,1,4,5,1,83.1,Entry,15,1,1,1,1,1,0,1,1
+Nebbiolo,USA,13.9,5,5,5,3,4,2,86.4,Entry,14,1,0,0,0,1,1,1,0
+Syrah,USA,13.1,1,5,2,2,5,4,80.8,Ultra Premium,10,1,0,1,1,0,1,0,1
+Nebbiolo,Spain,13.8,2,1,4,3,4,4,87.0,Icon,1,0,0,0,0,0,1,0,0
+Malbec,Argentina,13.9,3,4,5,5,4,2,80.7,Premium,3,0,0,1,1,0,1,1,0
+Cabernet Sauvignon,Italy,12.3,4,2,5,2,5,3,95.8,Icon,4,1,0,0,1,1,0,0,0
+Cabernet Franc,Spain,12.7,5,4,1,5,1,3,81.9,Entry,17,1,1,1,0,1,0,0,0
+Semillon,Argentina,11.2,5,1,3,4,1,4,97.1,Icon,19,1,0,1,0,0,0,1,1
+Bonarda,USA,14.6,1,5,5,2,2,2,87.9,Ultra Premium,11,0,1,0,1,0,1,1,0
+Riesling,Argentina,11.5,5,2,1,2,3,2,82.6,Entry,5,1,0,1,1,0,0,1,1
+Carmenere,Australia,15.4,4,4,4,3,5,4,90.1,Ultra Premium,10,1,0,0,1,0,0,0,0
+Chenin Blanc,Spain,11.5,5,1,1,3,5,4,97.3,Ultra Premium,17,0,1,0,1,0,1,1,1
+Riesling,USA,11.2,5,3,4,5,4,3,92.5,Entry,18,0,0,0,1,0,0,0,1
+Cabernet Franc,Australia,11.2,4,2,4,4,5,2,83.4,Premium,8,1,1,1,1,1,0,0,0
+Bonarda,Chile,11.1,1,1,5,4,5,4,84.9,Entry,14,0,0,1,1,0,1,0,0
+Zinfandel,Portugal,12.9,2,3,5,5,1,1,88.6,Ultra Premium,17,0,0,1,0,0,1,0,0
+Carmenere,Argentina,13.1,3,1,5,4,1,5,98.0,Premium,3,0,0,0,0,0,1,1,0
+Semillon,Argentina,12.1,1,1,3,5,5,4,84.1,Entry,8,1,1,1,0,1,0,1,1
+Cabernet Sauvignon,Chile,14.5,3,2,4,1,4,5,81.6,Ultra Premium,17,1,0,0,0,0,0,0,0
+Sangiovese,France,14.6,4,2,2,2,2,3,81.6,Premium,6,0,1,0,1,1,0,1,0
+Semillon,Argentina,15.3,4,2,1,2,1,4,81.2,Entry,2,1,0,1,0,1,0,0,1
+Garnacha,Italy,13.4,3,4,4,1,3,3,89.3,Icon,18,0,1,0,0,0,0,1,0
+Chardonnay,Chile,11.4,1,5,1,4,2,2,82.3,Premium,13,0,0,1,0,0,0,1,1
+Zinfandel,Germany,14.9,5,1,2,4,1,1,90.8,Icon,15,0,0,1,1,1,1,1,0
+Sangiovese,Germany,14.2,2,3,3,3,3,4,81.9,Premium,6,0,0,0,1,0,0,0,0
+Chardonnay,Australia,12.4,2,4,1,1,5,4,88.5,Premium,3,0,0,1,0,1,0,1,1
+Cabernet Sauvignon,Germany,13.6,4,3,2,1,5,4,91.6,Premium,13,1,0,0,0,0,1,0,1
+Tempranillo,Chile,12.1,4,3,1,3,3,5,97.7,Ultra Premium,6,1,1,1,0,1,0,1,0
+Carmenere,Germany,14.3,1,2,3,2,3,5,93.9,Premium,4,0,1,0,1,0,1,0,0
+Malbec,Chile,13.6,3,4,5,3,3,1,86.6,Icon,10,0,0,1,1,1,0,1,0
+Cabernet Sauvignon,Spain,12.1,5,1,1,1,3,3,86.3,Entry,5,1,1,1,1,1,0,1,0
+Sauvignon Blanc,Portugal,11.9,3,3,1,4,5,3,94.3,Premium,3,0,0,0,0,0,1,1,1
+Bonarda,Portugal,14.9,1,2,3,5,1,1,84.2,Entry,15,0,1,1,0,1,1,0,0
+Merlot,Italy,12.9,3,3,2,4,5,1,89.6,Ultra Premium,4,0,1,0,0,0,0,0,0
+Malbec,Spain,13.6,2,5,3,2,1,5,82.0,Icon,13,1,1,1,0,0,1,0,0
+Zinfandel,Spain,14.3,2,3,3,3,4,4,92.9,Ultra Premium,5,1,0,1,1,1,1,1,0
+Pinot Noir,Australia,13.1,3,4,2,5,2,1,84.6,Icon,11,1,1,1,1,1,0,1,0
+Syrah,Germany,13.9,1,4,2,1,3,5,81.9,Entry,11,0,0,1,0,0,1,1,1
+Bonarda,Chile,14.8,1,3,5,1,5,1,83.7,Entry,9,0,0,1,0,1,0,1,0
+Cabernet Sauvignon,Australia,12.6,2,3,1,3,3,4,96.4,Premium,7,1,1,0,1,0,0,0,0
+Sauvignon Blanc,Chile,12.0,2,5,1,1,4,1,82.7,Premium,8,0,0,0,1,0,1,0,1
+Semillon,Germany,15.0,5,1,5,5,3,2,85.3,Ultra Premium,15,1,1,1,1,0,1,1,1
+Tempranillo,Italy,11.7,1,5,3,2,2,3,91.6,Icon,1,0,0,1,1,1,0,0,0
+Pinot Noir,Argentina,13.5,3,3,5,1,5,3,96.0,Icon,15,1,1,0,1,1,1,1,0
+Sangiovese,Spain,15.2,5,2,2,1,5,3,82.2,Ultra Premium,4,0,1,1,1,0,0,0,1
+Sauvignon Blanc,France,12.6,4,4,5,5,1,2,95.5,Ultra Premium,12,1,0,1,1,1,0,1,1
+Carmenere,France,11.1,1,2,5,1,1,3,87.6,Premium,13,1,0,0,0,1,1,1,0
+Chardonnay,Spain,13.2,2,1,5,1,2,4,83.7,Premium,6,0,1,1,1,0,0,0,1
+Merlot,Argentina,12.9,4,2,2,4,3,1,81.5,Icon,19,1,0,0,0,1,0,1,0
+Bonarda,Argentina,14.2,3,2,5,1,2,4,89.7,Ultra Premium,3,1,0,0,1,0,0,0,0
+Cabernet Sauvignon,Portugal,14.5,5,1,1,1,1,1,92.7,Icon,10,0,0,0,0,1,0,1,0
+Riesling,Italy,12.2,2,4,3,5,4,3,96.5,Entry,17,1,0,0,0,0,1,1,1
+Garnacha,Germany,14.4,5,1,5,1,2,1,91.6,Ultra Premium,9,0,1,0,1,1,1,0,0
+Carmenere,Australia,13.5,2,5,1,3,2,3,97.0,Premium,7,0,1,0,1,0,0,1,0
+Cabernet Franc,France,15.0,3,2,4,1,4,5,91.9,Entry,18,0,1,0,1,1,1,1,0
+Cabernet Franc,France,11.1,5,5,2,3,3,4,80.9,Entry,12,0,1,1,1,0,0,1,1
+Merlot,Spain,14.3,1,3,5,2,4,2,84.2,Entry,16,0,0,1,0,0,0,0,0
+Bonarda,USA,14.5,3,4,3,5,2,1,93.4,Icon,8,1,0,0,1,0,0,0,0
+Sangiovese,France,12.7,1,1,2,3,5,5,91.3,Ultra Premium,17,0,0,1,1,0,0,0,1
+Chardonnay,Italy,14.4,1,3,3,5,5,1,90.7,Premium,5,1,0,0,1,0,0,1,1
+Torrontes,Italy,15.3,4,2,1,1,5,3,81.6,Icon,15,1,1,0,0,1,1,1,1
+Tempranillo,USA,12.0,5,4,5,5,1,2,88.9,Icon,19,1,0,1,1,1,1,0,0
+Nebbiolo,Argentina,15.0,3,4,1,3,3,1,86.0,Entry,10,1,0,0,1,1,0,0,0
+Sauvignon Blanc,Portugal,11.1,2,2,3,5,2,4,90.0,Entry,12,0,1,1,0,1,0,0,1
+Torrontes,Argentina,11.5,2,4,5,3,3,2,87.8,Premium,15,1,0,0,1,1,1,1,1
+Bonarda,France,15.3,1,4,1,2,1,2,81.3,Premium,18,1,1,0,0,1,1,0,0
+Cabernet Franc,Spain,14.4,5,3,1,3,3,2,80.0,Premium,14,1,0,1,0,0,0,0,1
+Merlot,Australia,14.7,3,4,2,4,3,3,95.6,Premium,12,1,1,0,0,0,1,0,1
+Tempranillo,Italy,12.2,3,3,1,2,4,2,83.8,Icon,17,0,1,1,1,0,1,1,1
+Pinot Noir,Portugal,14.9,5,3,2,4,3,5,82.4,Entry,3,1,1,0,0,1,1,0,0
+Carmenere,Spain,12.9,1,4,5,5,2,3,97.7,Entry,8,0,1,1,1,1,1,0,0
+Tempranillo,Portugal,14.9,1,3,3,1,1,4,97.8,Icon,15,1,1,1,1,1,0,1,0
+Pinot Noir,France,12.5,2,1,1,1,5,1,94.8,Premium,7,1,1,0,1,1,1,1,0
+Zinfandel,France,11.2,4,1,3,5,3,3,80.6,Premium,9,0,0,1,0,1,1,1,0
+Pinot Noir,France,13.8,4,3,3,4,4,2,94.1,Ultra Premium,3,0,0,1,1,1,0,1,0
+Riesling,Australia,13.9,1,5,3,2,3,4,93.4,Entry,19,1,1,1,1,0,1,0,1
+Torrontes,Italy,11.4,3,3,5,5,1,4,83.1,Entry,5,1,1,1,1,1,1,1,1
+Chenin Blanc,Argentina,13.3,1,4,2,5,2,4,95.7,Premium,4,1,0,1,0,0,1,1,1
+Riesling,Italy,13.8,5,1,3,2,4,2,84.3,Premium,2,0,0,0,1,0,0,1,1
+Zinfandel,Germany,13.6,4,2,1,3,1,1,87.2,Ultra Premium,5,0,0,0,1,1,1,1,0
+Nebbiolo,Australia,13.0,3,2,3,2,5,2,92.0,Entry,1,0,1,1,0,1,0,0,0
+Sauvignon Blanc,USA,12.6,4,5,1,1,4,4,95.6,Premium,12,0,0,1,1,1,1,0,1
+Syrah,Spain,11.2,1,3,5,5,3,5,81.9,Ultra Premium,14,1,1,1,0,1,1,0,0
+Sauvignon Blanc,France,12.5,5,1,3,2,4,4,82.3,Premium,13,1,1,1,1,1,0,1,1
+Chenin Blanc,USA,11.4,5,5,2,1,2,3,92.3,Premium,18,0,1,1,0,1,0,1,1
+Pinot Noir,Portugal,14.1,1,1,3,5,5,1,81.9,Icon,2,1,1,1,0,0,0,0,0
+Garnacha,Portugal,11.4,1,3,4,2,5,4,92.0,Premium,2,1,0,0,0,0,0,0,0
+Malbec,Germany,12.3,1,5,1,4,2,5,86.8,Entry,1,0,1,0,0,1,1,1,0
+Sauvignon Blanc,Italy,11.8,2,2,1,3,5,2,97.1,Premium,6,1,0,0,1,0,1,0,1
+Cabernet Sauvignon,USA,12.1,4,3,2,4,3,3,80.3,Ultra Premium,11,0,1,0,0,1,0,0,0
+Bonarda,Italy,11.3,5,5,3,2,5,4,84.6,Icon,14,0,0,0,1,0,1,1,0
+Chardonnay,Spain,14.2,2,1,5,4,2,1,89.4,Ultra Premium,12,1,0,0,0,0,0,1,1
+Carmenere,Germany,15.3,4,1,4,5,2,3,80.0,Premium,9,1,0,0,1,1,1,0,0
+Chardonnay,Germany,14.5,1,2,3,5,4,2,93.2,Icon,7,1,0,1,0,1,1,0,1
+Chenin Blanc,USA,11.8,3,4,2,1,5,1,83.2,Entry,15,0,1,0,1,0,1,0,1
+Sangiovese,Portugal,13.2,2,3,5,2,3,2,87.7,Ultra Premium,9,0,0,0,1,1,1,0,0
+Bonarda,Chile,13.6,5,4,5,1,4,3,87.2,Entry,6,0,0,1,0,0,1,1,0
+Syrah,USA,12.2,2,3,4,5,2,3,83.4,Premium,12,1,1,0,0,1,0,1,0
+Pinot Noir,Chile,13.5,4,5,5,5,1,2,81.7,Entry,16,1,0,1,1,1,1,0,0
+Garnacha,Australia,12.8,5,4,4,1,1,5,81.7,Premium,18,1,0,1,0,0,1,1,0
+Tempranillo,Spain,14.2,4,1,2,5,2,1,81.6,Ultra Premium,9,0,0,0,1,1,0,1,0
+Bonarda,France,13.3,3,3,4,5,4,2,89.0,Entry,10,1,1,0,0,1,1,1,0
+Sangiovese,Chile,11.6,4,1,5,3,2,3,92.5,Premium,14,1,1,1,1,0,1,0,0
+Malbec,Spain,13.7,1,5,4,3,3,1,94.9,Entry,2,1,0,1,1,0,0,1,0
+Nebbiolo,Spain,13.0,4,5,3,2,4,3,87.0,Entry,19,1,1,0,1,1,0,1,0
+Zinfandel,Portugal,12.9,1,3,5,1,4,3,83.2,Icon,1,1,1,0,1,0,0,0,0
+Bonarda,Chile,12.9,5,4,5,3,3,4,88.7,Ultra Premium,5,0,1,0,1,0,1,1,0
+Tempranillo,USA,14.4,2,5,1,5,5,2,84.3,Entry,18,0,0,1,1,0,0,0,1
+Sauvignon Blanc,USA,14.8,5,2,4,2,4,4,91.7,Ultra Premium,9,0,1,0,1,1,0,1,1
+Nebbiolo,Argentina,15.3,1,1,1,1,2,4,81.4,Entry,10,1,1,1,1,1,0,1,0
+Sauvignon Blanc,Australia,14.0,3,1,1,4,5,3,81.9,Icon,1,0,0,1,0,1,0,0,1
+Sauvignon Blanc,Argentina,11.3,3,1,5,4,5,2,88.3,Icon,11,1,0,0,0,0,1,0,1
+Sauvignon Blanc,USA,13.5,2,4,1,1,1,2,92.0,Ultra Premium,17,1,1,1,1,0,0,0,1
+Chenin Blanc,USA,11.6,3,2,5,5,4,2,82.3,Ultra Premium,17,1,1,0,0,0,1,0,1
+Sangiovese,Portugal,11.7,4,4,5,4,3,1,91.6,Ultra Premium,7,0,1,0,0,1,0,0,0
+Pinot Noir,Germany,13.5,4,3,3,1,4,5,93.1,Premium,15,1,0,1,0,0,0,0,0
+Riesling,Chile,13.4,5,1,3,3,5,4,91.5,Icon,5,0,1,1,1,1,1,0,1
+Riesling,USA,15.0,4,3,2,2,3,1,90.0,Icon,14,0,0,0,1,0,1,0,1
+Torrontes,Spain,13.4,2,2,2,4,1,1,97.2,Entry,11,1,0,0,0,1,1,0,1
+Syrah,Spain,12.7,4,4,2,3,2,5,91.9,Premium,8,0,0,1,1,1,1,1,0
+Nebbiolo,Spain,12.8,4,5,3,5,2,4,90.1,Premium,2,1,1,0,0,1,1,0,0
+Carmenere,Italy,11.3,5,4,2,5,4,3,87.9,Icon,17,0,0,1,0,1,0,0,0
+Zinfandel,Portugal,15.2,5,1,1,4,4,3,92.3,Ultra Premium,14,1,0,0,0,1,1,0,0
+Chardonnay,France,11.7,3,1,5,1,3,5,94.1,Ultra Premium,10,0,1,1,0,0,0,1,1
+Syrah,Spain,14.6,2,5,4,2,4,2,96.4,Icon,4,1,0,1,1,1,1,1,0
+Bonarda,USA,11.3,4,2,4,3,4,2,84.9,Premium,10,0,0,1,1,0,0,1,0
+Sauvignon Blanc,Spain,13.8,3,1,5,4,2,1,93.9,Premium,15,1,1,1,0,1,1,0,1
+Garnacha,Australia,12.8,2,4,1,5,2,5,84.6,Ultra Premium,5,1,0,0,0,0,0,1,0
+Riesling,Portugal,11.8,1,2,5,4,2,1,95.3,Ultra Premium,1,0,1,0,0,1,1,1,1
+Sauvignon Blanc,Portugal,14.6,1,1,2,2,1,2,83.0,Premium,16,0,1,1,1,1,1,0,1
+Merlot,Chile,12.3,4,3,2,3,3,1,83.6,Ultra Premium,4,1,1,1,0,1,1,0,0
+Zinfandel,Chile,11.7,3,5,1,2,4,2,90.0,Premium,3,1,1,0,1,1,0,1,0
+Merlot,Spain,13.0,3,2,3,3,5,3,83.5,Icon,10,1,1,1,1,0,1,0,0
+Pinot Noir,Australia,13.9,2,2,4,4,4,2,85.7,Ultra Premium,13,0,0,1,0,1,1,0,0
+Malbec,Australia,11.8,5,4,3,5,4,3,95.9,Icon,11,1,0,1,0,0,0,0,0
+Nebbiolo,France,11.7,2,3,3,5,1,3,89.5,Entry,2,1,1,1,0,0,0,1,0
+Torrontes,Spain,15.1,3,4,4,1,3,2,94.8,Icon,9,0,1,1,1,0,1,1,1
+Garnacha,USA,11.5,2,1,5,3,4,2,86.3,Ultra Premium,18,1,0,0,0,1,1,1,0
+Carmenere,USA,14.6,3,3,1,4,5,2,85.9,Icon,15,0,1,0,1,1,0,1,0
+Cabernet Franc,Spain,14.9,5,3,1,5,5,4,96.9,Icon,17,0,0,0,1,0,0,1,0
+Semillon,Argentina,14.9,3,3,3,2,4,5,89.8,Ultra Premium,19,1,0,1,0,1,0,0,1
+Pinot Noir,Germany,11.1,1,3,3,3,2,3,94.5,Icon,13,0,1,0,0,0,1,0,0
+Semillon,Spain,11.5,5,5,4,1,1,1,88.4,Entry,14,0,0,0,0,0,1,1,1
+Torrontes,Spain,11.3,4,2,1,5,1,5,95.1,Icon,12,0,0,1,1,1,0,0,1
+Syrah,Spain,12.0,4,1,5,5,1,5,80.6,Ultra Premium,17,1,1,1,0,1,0,0,0
+Zinfandel,Germany,12.4,4,1,3,2,4,5,83.1,Entry,19,1,1,0,0,0,1,0,0
+Merlot,Spain,12.7,5,3,4,2,2,3,93.4,Entry,8,0,1,1,1,0,1,0,0
+Riesling,Chile,11.2,3,4,2,1,1,5,88.5,Ultra Premium,8,1,0,1,0,1,1,0,1
+Nebbiolo,Chile,14.8,1,3,4,4,1,2,88.3,Entry,17,1,1,1,0,1,1,0,0
+Torrontes,Germany,11.4,1,1,5,3,3,1,80.5,Icon,11,1,0,0,0,0,1,0,1
+Malbec,Germany,12.9,4,5,5,5,4,5,85.6,Entry,7,1,1,0,1,0,0,1,0
+Nebbiolo,Australia,11.2,4,2,2,2,4,1,88.2,Premium,5,0,0,1,1,1,0,0,0
+Riesling,Italy,12.6,2,5,1,2,2,3,90.7,Premium,14,1,0,1,0,0,0,1,1
+Cabernet Franc,Spain,13.9,5,2,5,3,2,1,92.5,Icon,3,0,0,0,0,0,1,0,0
+Carmenere,Portugal,14.3,1,4,5,3,2,4,92.1,Ultra Premium,9,0,1,1,1,1,1,1,0
+Cabernet Franc,Italy,14.9,1,3,2,3,1,4,87.1,Icon,7,1,1,1,0,0,1,0,1
+Malbec,Argentina,15.3,3,5,2,4,2,4,80.1,Ultra Premium,11,0,0,1,1,0,1,1,1
+Garnacha,Spain,13.6,1,4,1,5,2,5,84.1,Icon,3,0,0,1,1,0,1,1,1
+Sauvignon Blanc,Italy,11.1,3,5,5,2,5,2,82.1,Premium,5,0,0,1,1,1,1,0,1
+Carmenere,Spain,11.1,4,5,5,1,1,5,89.8,Premium,19,0,1,1,1,0,0,1,0
+Carmenere,USA,12.5,4,5,4,3,4,3,83.0,Ultra Premium,3,0,0,1,0,1,0,0,0
+Carmenere,Italy,15.0,1,2,3,5,5,4,95.3,Entry,4,1,0,0,1,0,0,1,0
+Sauvignon Blanc,Chile,13.4,4,5,3,4,5,1,92.3,Entry,14,1,1,1,0,0,0,1,1
+Garnacha,Spain,14.9,2,4,3,1,3,3,96.5,Ultra Premium,18,0,0,0,1,0,1,1,0
+Semillon,Spain,14.6,3,1,4,5,1,1,95.2,Icon,8,0,0,1,0,0,0,0,1
+Zinfandel,Australia,11.1,5,3,3,2,2,5,86.5,Premium,9,1,0,1,1,0,1,0,0
+Cabernet Franc,Italy,11.9,2,1,3,1,4,1,91.4,Ultra Premium,5,0,1,1,0,1,1,0,0
+Malbec,Spain,14.2,1,2,4,3,3,3,91.4,Entry,13,1,1,0,0,0,0,1,0
+Garnacha,France,11.3,2,2,4,4,2,2,92.8,Icon,15,0,1,1,0,0,1,0,0
+Sangiovese,Germany,12.8,3,5,5,1,1,1,83.9,Entry,19,0,0,0,0,1,0,0,0
+Chardonnay,Spain,13.8,4,4,2,2,4,4,85.5,Ultra Premium,4,0,0,0,1,1,1,0,1
+Sangiovese,France,11.6,2,3,1,4,1,1,80.0,Premium,18,1,1,1,0,0,1,1,1
+Pinot Noir,Portugal,12.5,4,1,5,4,3,1,86.5,Ultra Premium,9,0,1,1,1,1,1,0,0
+Semillon,Italy,15.1,4,3,5,1,2,2,90.2,Icon,10,0,0,0,0,0,0,0,1
+Malbec,Germany,14.4,1,4,1,1,5,4,94.1,Icon,5,1,0,0,1,1,0,1,0
+Torrontes,Italy,13.1,2,3,4,1,4,1,83.3,Entry,13,1,0,1,1,0,0,1,1
+Sauvignon Blanc,Chile,15.0,1,4,5,5,5,2,87.1,Icon,7,1,1,0,1,1,1,1,1
+Pinot Noir,Chile,11.9,4,5,4,3,3,5,81.0,Premium,10,0,1,0,0,1,1,0,0
+Syrah,Chile,12.5,1,4,2,3,1,3,87.3,Entry,12,1,1,1,0,0,0,1,1
+Tempranillo,Argentina,12.4,4,1,4,2,4,3,90.4,Premium,15,1,0,1,0,1,0,1,0
+Malbec,Australia,13.3,4,1,4,3,5,4,89.9,Icon,15,0,0,1,0,1,0,0,0
+Pinot Noir,Chile,11.7,3,5,1,5,2,2,88.7,Ultra Premium,12,1,1,1,1,0,0,0,1
+Chenin Blanc,Chile,12.6,3,2,4,2,1,2,95.2,Ultra Premium,13,0,0,0,0,1,1,1,1
+Zinfandel,Argentina,12.6,4,4,1,1,2,2,82.7,Entry,9,0,1,1,0,1,1,0,0
+Cabernet Sauvignon,USA,15.3,2,2,5,3,5,4,96.2,Icon,1,0,1,0,0,1,0,0,0
+Riesling,Chile,11.5,4,3,4,3,2,1,83.9,Entry,18,0,0,0,1,1,1,1,1
+Tempranillo,Spain,14.7,5,3,5,2,1,3,87.1,Icon,2,1,0,1,0,1,1,1,0
+Bonarda,Argentina,13.1,1,3,4,2,5,4,80.2,Premium,4,0,1,1,1,1,0,0,0
+Chardonnay,Germany,14.8,3,5,3,1,5,3,96.1,Entry,10,1,0,1,1,0,0,1,1
+Semillon,Argentina,11.2,5,1,3,4,4,5,80.6,Ultra Premium,17,0,0,1,1,0,1,0,1
+Chenin Blanc,Spain,14.8,1,2,2,5,4,4,80.5,Ultra Premium,11,0,0,0,1,0,0,1,1
+Cabernet Sauvignon,Germany,12.3,5,4,5,3,3,5,89.3,Premium,19,0,0,1,0,0,0,0,0
+Pinot Noir,USA,12.9,4,2,4,2,4,5,90.6,Entry,16,0,1,0,1,1,1,0,0
+Bonarda,Italy,13.3,3,3,5,4,2,5,93.9,Premium,4,0,1,0,0,0,0,1,0
+Nebbiolo,USA,12.8,5,1,1,5,1,4,89.4,Entry,10,1,0,0,1,0,0,1,0
+Cabernet Franc,Italy,11.2,4,4,4,3,4,1,95.3,Ultra Premium,18,1,1,0,0,1,0,0,0
+Sangiovese,Portugal,12.7,3,4,5,5,1,3,87.5,Premium,10,1,0,1,0,1,0,0,0
+Sauvignon Blanc,Chile,12.2,4,4,1,3,5,5,81.8,Entry,19,1,0,0,0,1,1,1,1
+Zinfandel,Australia,13.1,1,2,5,1,1,2,94.5,Entry,9,0,1,1,1,1,0,0,0
+Carmenere,Argentina,14.3,5,1,1,3,2,4,94.2,Icon,4,1,0,0,0,1,0,1,0
+Sangiovese,Argentina,15.4,5,4,3,5,3,1,89.6,Icon,19,0,0,0,0,1,1,1,0
+Nebbiolo,Italy,15.3,3,3,2,1,4,4,91.3,Premium,19,0,0,1,0,1,1,0,0
+Cabernet Franc,France,14.7,3,3,2,4,4,1,89.9,Premium,11,0,0,1,0,1,0,0,0
+Sangiovese,USA,11.3,3,1,2,1,3,5,81.3,Premium,15,0,1,0,0,1,1,0,0
+Zinfandel,Australia,11.9,3,5,4,5,2,2,96.5,Icon,10,0,1,1,1,0,1,1,0
+Torrontes,USA,11.9,4,1,1,3,1,4,81.3,Ultra Premium,10,1,0,0,1,1,1,1,1
+Chardonnay,Chile,15.4,3,3,5,4,3,1,81.7,Icon,19,1,0,0,1,1,0,1,1
+Cabernet Franc,Chile,12.1,2,1,1,1,3,4,84.5,Premium,4,0,0,1,0,1,0,0,0
+Semillon,USA,11.9,4,2,1,5,4,1,80.3,Icon,7,0,0,1,0,0,1,1,1
+Torrontes,Chile,15.4,1,2,2,3,2,3,96.0,Entry,15,0,1,0,0,0,0,1,1
+Semillon,Germany,12.0,3,1,1,2,2,4,83.7,Ultra Premium,17,0,0,0,1,1,0,1,1
+Malbec,Portugal,11.1,3,2,3,5,2,3,83.9,Entry,11,1,1,1,1,0,1,1,0
+Tempranillo,Italy,13.2,5,3,2,1,3,3,93.9,Entry,9,0,1,0,0,0,0,1,0
+Malbec,Chile,14.9,2,3,5,2,5,2,84.5,Icon,6,1,1,1,1,1,0,0,0
+Zinfandel,France,14.7,3,2,1,5,4,5,88.5,Icon,4,1,0,0,0,0,1,1,1
+Chenin Blanc,Portugal,12.2,5,5,5,1,2,4,92.0,Ultra Premium,3,0,0,1,0,0,1,0,1
+Malbec,Spain,15.2,3,2,1,5,5,2,94.9,Entry,13,0,1,1,0,1,0,1,0
+Sangiovese,Argentina,13.3,1,1,5,5,1,3,94.9,Ultra Premium,9,1,0,1,0,0,1,0,0
+Garnacha,Italy,12.9,1,5,5,5,4,5,83.0,Icon,2,0,1,1,1,1,1,1,0
+Malbec,Argentina,12.9,2,3,2,2,4,3,84.0,Entry,10,1,0,1,0,0,0,1,1
+Semillon,Chile,12.0,4,3,5,1,1,1,89.7,Premium,8,0,1,0,0,1,1,0,1
+Nebbiolo,Chile,13.6,5,5,1,5,5,5,87.9,Icon,17,0,0,0,1,0,0,0,0
+Carmenere,Australia,12.9,1,1,3,1,3,5,87.3,Entry,11,1,1,1,1,0,1,1,0
+Torrontes,Germany,14.4,5,1,1,3,4,3,85.1,Ultra Premium,14,0,0,0,1,0,0,0,1
+Cabernet Franc,USA,12.8,1,2,3,2,4,1,93.4,Ultra Premium,17,0,1,1,0,0,1,0,0
+Chardonnay,Italy,12.0,3,4,3,4,4,3,91.8,Ultra Premium,11,1,1,1,0,0,1,0,1
+Cabernet Sauvignon,Germany,13.5,1,4,1,2,2,5,89.4,Premium,7,1,1,1,0,0,0,0,1
+Riesling,Australia,14.0,4,5,2,1,3,5,91.8,Icon,10,0,0,1,1,1,1,1,1
+Nebbiolo,Chile,12.7,3,1,5,3,2,4,93.0,Ultra Premium,15,1,0,1,1,1,1,0,0
+Chenin Blanc,Argentina,12.2,1,3,3,5,1,5,94.9,Entry,14,0,0,1,0,1,1,0,1
+Zinfandel,Spain,13.1,4,2,5,4,4,1,87.8,Entry,5,0,1,1,0,0,1,0,0
+Zinfandel,USA,13.8,2,1,3,5,5,2,95.2,Ultra Premium,1,1,0,1,1,1,0,1,0
+Riesling,Italy,15.5,3,5,5,1,3,4,96.1,Entry,19,1,0,1,0,1,1,0,1
+Cabernet Franc,Chile,11.1,2,1,4,3,2,3,96.9,Entry,10,0,0,1,0,0,0,0,0
+Sauvignon Blanc,France,14.2,3,1,4,3,3,2,86.2,Entry,5,0,0,1,1,1,1,0,1
+Chardonnay,Spain,15.2,3,3,5,2,3,2,82.0,Ultra Premium,12,0,0,0,0,0,0,0,1
+Chardonnay,Chile,11.7,4,1,4,2,1,5,97.1,Premium,18,1,0,0,0,0,0,1,1
+Pinot Noir,Chile,14.1,3,4,2,5,5,2,90.3,Premium,2,1,1,1,0,1,1,1,0
+Sauvignon Blanc,Chile,14.2,5,2,1,4,4,3,83.8,Entry,15,1,1,0,0,0,1,1,1
+Torrontes,Italy,11.9,5,2,1,1,5,4,86.3,Entry,12,0,0,1,1,1,0,0,1
+Sangiovese,France,11.3,4,2,2,3,4,2,84.8,Premium,15,0,1,0,0,1,0,1,0
+Pinot Noir,Germany,11.0,3,5,4,2,4,1,86.4,Entry,4,0,1,1,1,0,1,1,0
+Tempranillo,Germany,11.7,2,3,4,5,2,3,80.1,Icon,17,0,0,0,0,1,0,0,0
+Chardonnay,USA,12.9,1,5,1,2,3,4,94.0,Ultra Premium,10,0,0,0,0,0,0,0,1
+Torrontes,Germany,12.7,3,5,2,5,1,4,88.7,Ultra Premium,7,0,0,1,1,1,0,0,1
+Bonarda,Portugal,13.3,5,5,1,1,5,3,93.3,Icon,14,0,1,1,1,0,1,0,1
+Nebbiolo,Chile,11.6,4,5,3,4,3,5,87.3,Icon,6,1,0,1,1,0,1,1,0
+Cabernet Franc,Italy,15.0,4,1,3,5,5,4,92.1,Entry,7,0,1,1,0,0,0,1,0
+Chenin Blanc,Argentina,13.8,5,1,4,1,1,5,81.7,Premium,8,1,0,0,0,1,1,1,1
+Zinfandel,Australia,11.0,4,1,5,2,2,1,92.7,Entry,18,0,1,1,1,0,0,0,0
+Garnacha,Australia,13.9,3,4,1,4,2,4,89.0,Ultra Premium,1,0,1,0,1,0,0,1,0
+Cabernet Franc,France,12.0,4,1,5,1,1,3,83.1,Entry,11,1,1,1,0,0,0,0,0
+Carmenere,Argentina,12.1,5,5,5,2,5,5,94.9,Premium,8,0,0,0,0,0,1,0,0
+Semillon,France,14.0,3,4,3,1,3,4,95.3,Ultra Premium,5,0,1,1,1,1,0,0,1
+Bonarda,Spain,14.1,1,1,4,4,3,2,85.0,Premium,8,1,0,1,0,1,1,1,0
+Pinot Noir,Argentina,15.2,2,4,4,3,1,4,84.9,Ultra Premium,14,0,0,0,1,0,1,1,0
+Chardonnay,Portugal,14.4,2,3,3,5,3,2,96.9,Entry,15,0,1,0,0,1,1,0,1
+Cabernet Sauvignon,Australia,15.0,4,4,4,1,1,2,83.3,Premium,17,1,1,0,1,0,0,1,0
+Tempranillo,Spain,14.3,1,5,1,2,5,1,80.8,Icon,15,0,1,0,1,0,1,0,1
+Pinot Noir,Australia,14.1,2,2,1,4,1,3,94.4,Entry,13,0,0,0,1,0,0,1,0
+Syrah,Portugal,15.0,2,1,4,3,3,4,84.0,Ultra Premium,13,0,1,0,1,0,0,1,0
+Torrontes,Australia,15.4,5,2,4,1,4,1,88.2,Icon,5,0,0,0,0,0,1,1,1
+Chardonnay,USA,14.4,3,5,1,1,2,5,81.5,Entry,16,1,0,1,0,1,1,0,1
+Pinot Noir,Chile,14.4,5,1,5,3,4,5,96.8,Entry,2,1,0,0,1,1,1,1,0
+Chenin Blanc,France,12.5,1,5,4,3,3,4,92.5,Ultra Premium,19,1,1,0,1,1,1,1,1
+Pinot Noir,Germany,13.8,1,3,2,1,3,4,87.4,Premium,14,0,1,0,0,1,1,1,0
+Garnacha,Spain,12.9,4,5,2,3,3,1,85.6,Premium,8,0,1,1,0,0,1,0,1
+Garnacha,Italy,11.4,2,2,5,5,5,4,88.0,Premium,13,0,0,1,1,1,1,0,0
+Sangiovese,Spain,14.5,2,2,2,1,5,2,90.3,Icon,3,1,0,0,0,1,1,0,0
+Bonarda,Argentina,14.3,5,3,1,4,3,5,97.8,Ultra Premium,9,1,1,0,1,0,1,0,1
+Torrontes,Portugal,11.8,3,5,5,4,1,4,82.3,Icon,16,0,0,1,1,1,0,1,1
+Torrontes,Portugal,14.0,4,2,2,3,3,3,94.9,Premium,13,0,0,0,1,1,1,1,1
+Riesling,Portugal,12.9,3,3,1,3,2,3,80.5,Premium,16,1,0,1,0,0,0,1,1
+Chardonnay,Spain,15.4,2,2,3,3,3,4,87.7,Premium,11,0,0,0,0,1,1,0,1
+Pinot Noir,USA,11.4,4,4,5,4,5,2,91.9,Icon,5,0,0,0,1,0,1,1,0
+Semillon,USA,14.6,3,4,5,4,1,4,87.3,Icon,16,1,0,1,1,1,0,0,1
+Cabernet Sauvignon,Chile,12.2,4,4,4,1,3,3,91.7,Icon,15,0,0,1,0,1,1,1,0
+Chenin Blanc,USA,11.7,3,5,2,4,5,4,81.5,Premium,9,1,0,0,1,0,1,1,1
+Cabernet Franc,Portugal,13.3,3,5,2,3,4,2,87.7,Icon,17,1,1,1,1,0,0,0,1
+Sauvignon Blanc,Germany,14.7,5,4,2,2,4,1,96.0,Icon,1,0,1,0,1,0,1,1,1
+Bonarda,Italy,11.6,2,3,3,5,3,4,82.7,Ultra Premium,17,1,1,0,1,1,1,1,0
+Tempranillo,Portugal,11.1,2,4,2,1,5,1,91.7,Ultra Premium,5,1,1,0,1,0,1,1,1
+Sauvignon Blanc,Portugal,15.5,2,1,2,4,1,4,80.5,Premium,2,1,1,0,1,1,0,0,1
+Bonarda,Germany,13.2,2,1,2,5,4,5,90.4,Entry,7,1,0,1,1,1,0,1,0
+Sangiovese,France,15.1,4,4,5,4,5,4,90.9,Icon,1,0,1,1,1,1,0,0,0
+Nebbiolo,USA,14.0,3,4,1,5,5,4,96.6,Premium,15,1,1,0,0,0,1,0,1
+Pinot Noir,Argentina,11.1,3,1,4,3,5,3,94.8,Entry,9,0,1,0,0,0,1,1,0
+Nebbiolo,USA,12.7,1,1,4,4,3,3,89.6,Premium,16,0,1,1,0,0,0,1,0
+Zinfandel,Argentina,12.8,5,4,5,3,1,3,93.3,Entry,12,1,1,0,1,0,0,1,0
+Semillon,Chile,15.5,3,5,3,5,5,4,93.8,Icon,15,0,0,1,0,0,1,1,1
+Pinot Noir,Italy,13.2,3,5,4,1,4,3,95.0,Ultra Premium,12,0,0,0,1,0,1,1,0
+Sauvignon Blanc,Chile,13.4,3,4,1,2,4,1,97.6,Icon,15,1,0,0,0,0,1,0,1
+Riesling,Chile,13.5,3,3,5,5,5,1,97.6,Entry,4,0,1,0,0,1,1,0,1
+Torrontes,Australia,14.6,2,4,3,1,2,1,81.1,Ultra Premium,1,1,1,1,0,1,1,0,1
+Cabernet Franc,Spain,12.8,1,3,2,3,5,4,87.1,Icon,10,0,1,0,1,0,0,1,0
+Chardonnay,Portugal,13.7,5,2,3,4,1,1,82.9,Icon,2,1,0,1,0,1,1,1,1
+Malbec,Australia,13.7,1,5,3,5,3,4,89.7,Ultra Premium,11,0,1,1,0,1,1,1,0
+Garnacha,Italy,11.7,3,4,5,1,2,1,94.9,Premium,11,1,1,1,1,1,1,1,0
+Merlot,Argentina,12.5,2,2,5,4,3,5,87.6,Premium,5,1,0,1,0,1,0,1,0
+Merlot,Portugal,14.9,4,5,1,3,5,2,91.6,Entry,12,1,1,0,0,0,1,1,1
+Tempranillo,USA,15.1,4,3,2,3,4,3,90.6,Entry,2,0,1,1,1,1,0,1,0
+Chardonnay,Portugal,13.0,5,3,4,4,3,1,90.3,Entry,5,0,0,1,0,1,0,1,1
+Merlot,Australia,13.0,3,3,2,4,5,3,80.9,Ultra Premium,6,0,0,0,0,1,1,0,0
+Zinfandel,Spain,11.0,3,5,5,3,1,4,84.6,Entry,7,0,0,1,1,0,1,1,0
+Carmenere,USA,13.0,2,3,1,1,2,4,97.7,Icon,14,1,1,0,1,0,0,0,0
+Tempranillo,USA,15.3,2,5,3,4,2,3,80.1,Entry,19,1,0,1,0,0,1,1,0
+Malbec,Spain,11.8,2,3,2,5,5,5,81.7,Premium,18,0,1,1,1,0,0,1,1
+Zinfandel,France,13.8,3,3,3,5,2,5,84.0,Entry,1,0,0,0,1,0,1,1,0
+Semillon,France,14.6,4,4,4,3,1,3,89.4,Icon,17,0,1,0,1,0,0,1,1
+Garnacha,Chile,12.8,4,4,3,4,5,4,93.1,Premium,8,0,0,0,0,1,0,0,0
+Sauvignon Blanc,Australia,13.7,5,3,2,1,5,1,83.6,Ultra Premium,13,1,1,1,0,0,1,0,1
+Chardonnay,Australia,14.5,4,3,3,1,5,5,87.4,Entry,8,1,0,0,0,0,1,0,1
+Carmenere,Portugal,11.8,2,2,1,3,1,5,93.2,Entry,11,1,1,1,0,0,0,0,1
+Malbec,Germany,11.1,1,4,5,5,3,1,83.5,Entry,17,1,1,0,1,0,1,1,0
+Semillon,Australia,12.9,3,1,1,2,3,1,84.8,Icon,8,0,1,1,0,0,0,1,1
+Tempranillo,Portugal,11.4,2,2,1,4,2,4,80.3,Entry,9,0,0,1,0,1,0,0,0
+Torrontes,Spain,12.2,3,1,4,5,5,4,94.5,Ultra Premium,2,0,0,1,1,0,1,0,1
+Torrontes,Germany,13.9,1,5,3,3,5,5,80.4,Icon,13,1,0,1,1,1,0,1,1
+Merlot,France,14.1,4,5,5,2,3,5,93.8,Entry,18,1,1,0,0,0,1,0,0
+Nebbiolo,Australia,13.8,3,2,3,2,3,4,93.4,Ultra Premium,19,1,0,1,1,1,1,0,0
+Bonarda,Portugal,12.5,3,1,3,4,3,1,81.1,Ultra Premium,8,0,1,1,1,1,1,0,0
+Chardonnay,Argentina,12.4,5,3,2,2,4,1,96.4,Premium,6,0,1,0,0,0,1,1,1
+Sauvignon Blanc,Italy,12.4,4,3,3,5,3,2,81.5,Premium,7,1,0,1,0,1,1,1,1
+Merlot,Portugal,15.4,5,4,3,3,3,5,81.0,Ultra Premium,1,0,1,1,0,1,0,0,0
+Sauvignon Blanc,USA,13.9,4,5,1,3,1,3,94.3,Icon,3,1,0,1,0,1,1,0,1
+Garnacha,Argentina,12.4,4,2,2,2,3,2,91.4,Icon,15,0,1,0,0,0,1,1,1
+Pinot Noir,Spain,13.4,1,2,4,1,5,2,83.0,Ultra Premium,6,1,1,0,1,1,0,0,0
+Sangiovese,Portugal,13.7,5,4,5,5,5,3,96.1,Premium,17,0,0,1,1,0,1,1,0
+Merlot,France,14.4,1,1,5,5,4,3,81.0,Icon,9,0,1,0,1,0,0,1,0
+Cabernet Sauvignon,Australia,14.4,3,1,2,1,1,1,82.1,Icon,18,0,0,0,1,0,1,1,1
+Torrontes,Australia,11.2,2,2,2,1,5,2,88.1,Entry,5,0,0,0,1,0,0,1,1
+Semillon,France,13.1,3,2,2,2,1,4,97.9,Icon,18,0,0,0,1,1,0,0,1
+Zinfandel,Italy,11.5,4,3,1,1,1,3,87.7,Entry,3,1,1,0,1,0,1,1,1
+Semillon,Portugal,13.4,1,2,2,1,1,3,91.4,Ultra Premium,12,1,0,1,0,0,1,0,1
+Tempranillo,USA,11.8,1,3,5,5,4,3,95.4,Icon,16,1,0,1,1,1,0,0,0
+Merlot,USA,12.3,2,5,4,3,2,2,83.5,Entry,5,1,1,1,1,0,1,0,0
+Zinfandel,USA,12.8,3,2,5,1,2,5,97.2,Icon,1,0,1,0,0,1,0,0,0
+Syrah,France,14.4,1,5,2,3,3,5,82.6,Entry,9,0,0,0,1,1,0,1,0
+Sauvignon Blanc,Australia,14.7,5,4,2,2,2,4,89.9,Icon,17,0,1,0,0,0,1,0,1
+Riesling,Germany,13.6,3,4,1,3,2,2,83.2,Icon,18,0,0,0,0,0,1,1,1
+Malbec,Portugal,13.7,3,5,1,5,1,1,84.2,Entry,2,1,0,1,1,1,0,1,0
+Carmenere,Argentina,11.7,2,3,5,5,2,5,90.0,Entry,17,1,1,1,1,0,0,1,0
+Carmenere,Portugal,15.0,5,4,2,3,4,3,81.0,Entry,15,0,0,1,0,0,0,1,1
+Sangiovese,Argentina,13.0,5,3,2,1,2,3,90.2,Entry,12,0,1,0,0,0,0,0,0
+Cabernet Franc,Germany,14.6,5,4,5,1,1,1,87.2,Icon,16,1,1,0,0,1,1,1,0
+Garnacha,Australia,14.4,3,2,2,1,2,1,88.7,Ultra Premium,3,1,1,0,1,0,1,1,1
+Riesling,Argentina,15.0,4,1,5,2,4,2,89.2,Icon,4,1,1,1,0,0,0,0,1
+Carmenere,France,11.7,3,3,4,2,4,3,86.1,Entry,14,1,0,1,1,1,1,1,0
+Semillon,Germany,13.1,3,4,3,5,3,5,94.0,Ultra Premium,5,0,0,1,0,1,0,0,1
+Syrah,Portugal,13.9,5,1,2,5,5,1,90.1,Icon,10,1,0,0,0,1,0,1,0
+Chardonnay,Chile,13.4,2,1,2,2,1,1,94.3,Ultra Premium,19,0,1,0,1,1,0,1,1
+Chardonnay,USA,13.8,4,2,5,3,2,4,93.7,Premium,6,1,0,0,0,0,0,0,1
+Riesling,Portugal,12.8,2,3,4,5,4,2,94.6,Icon,8,1,0,1,1,0,1,1,1
+Chenin Blanc,USA,14.6,4,2,4,1,1,2,93.3,Premium,12,1,1,1,0,1,1,1,1
+Carmenere,Italy,14.3,3,2,5,5,1,1,87.7,Icon,12,1,1,0,1,1,0,1,0
+Chardonnay,Portugal,11.5,2,1,4,5,1,5,84.5,Ultra Premium,1,0,1,1,0,0,1,0,1
+Chenin Blanc,Germany,13.8,4,5,2,4,1,3,95.6,Premium,4,0,0,0,1,0,1,1,1
+Semillon,France,13.1,3,2,3,1,4,2,81.0,Icon,18,0,1,0,1,1,1,0,1
+Semillon,Italy,14.8,3,2,2,4,2,3,93.4,Premium,13,0,1,1,1,0,0,0,1
+Riesling,Australia,13.6,4,1,5,5,5,3,96.2,Entry,9,0,1,1,0,1,1,0,1
+Merlot,Germany,12.8,3,4,5,1,4,3,92.5,Entry,5,0,0,0,1,0,0,0,0
+Merlot,Germany,11.9,3,5,4,5,2,1,80.2,Premium,5,1,1,0,1,0,1,0,0
+Cabernet Franc,USA,15.4,2,5,2,5,2,3,96.9,Icon,1,0,1,0,1,0,1,0,1
+Chardonnay,Portugal,12.1,5,5,3,3,2,4,97.2,Ultra Premium,18,1,1,1,0,0,1,1,1
+Bonarda,USA,13.0,5,5,2,3,3,1,85.9,Entry,14,1,0,0,0,0,1,0,1
+Chardonnay,Spain,12.3,2,1,2,1,3,3,95.6,Premium,10,1,0,1,0,1,1,0,1
+Bonarda,Argentina,12.3,4,2,1,3,3,2,95.4,Entry,16,0,0,0,0,0,1,1,1
+Riesling,Spain,14.4,1,2,1,2,4,1,82.0,Entry,4,0,1,0,1,0,1,0,1
+Zinfandel,Australia,15.4,5,5,1,2,5,5,91.7,Entry,18,1,1,1,1,1,1,0,0
+Nebbiolo,Australia,11.0,5,4,3,2,2,5,80.1,Icon,10,0,0,0,0,1,1,1,0
+Tempranillo,Italy,13.3,1,4,1,5,5,1,80.4,Entry,8,1,0,0,0,1,1,0,0
+Nebbiolo,Germany,15.0,5,3,1,4,2,4,87.0,Premium,1,0,1,0,0,1,0,1,0
+Sangiovese,Australia,11.2,1,4,5,5,2,1,85.0,Icon,1,0,0,0,1,0,0,0,0
+Pinot Noir,Italy,14.3,5,5,4,4,4,5,95.7,Icon,16,0,1,0,0,0,0,0,0
+Torrontes,Argentina,13.8,3,3,2,2,3,4,94.2,Ultra Premium,15,1,0,1,1,0,0,0,1
+Merlot,France,12.3,3,1,4,5,4,1,95.4,Icon,4,1,0,0,1,0,1,1,0
+Syrah,France,11.4,3,4,2,1,3,3,80.2,Entry,15,1,1,0,0,1,1,1,0
+Cabernet Franc,Chile,14.6,5,4,4,1,5,1,93.5,Premium,15,0,0,1,1,0,1,1,0
+Chenin Blanc,France,13.9,1,5,2,4,2,4,81.7,Premium,9,0,0,1,1,0,0,0,1
+Chenin Blanc,USA,13.3,4,4,1,4,4,2,89.5,Premium,16,1,0,1,0,1,0,1,1
+Malbec,Australia,12.4,4,2,5,4,2,2,85.6,Icon,7,1,1,1,0,1,1,1,0
+Carmenere,Spain,12.8,1,3,4,3,2,2,90.7,Premium,19,1,1,1,0,1,1,1,0
+Syrah,France,12.4,3,2,3,3,5,4,88.7,Entry,7,0,1,1,1,1,0,1,0
+Carmenere,Spain,12.0,5,2,1,3,5,3,82.5,Premium,4,1,0,0,0,1,0,0,0
+Pinot Noir,Chile,12.6,4,1,5,4,5,3,91.6,Icon,8,0,0,0,0,1,0,0,0
+Cabernet Sauvignon,Spain,11.8,3,2,3,3,3,4,88.0,Icon,5,1,0,0,0,0,0,0,0
+Nebbiolo,Germany,13.1,1,5,3,3,5,2,90.4,Ultra Premium,10,1,1,1,0,1,0,0,0
+Nebbiolo,Australia,12.3,1,4,1,2,2,1,90.0,Ultra Premium,17,0,0,1,0,0,0,1,1
+Tempranillo,Chile,14.6,4,1,4,1,5,5,93.8,Entry,18,0,0,0,1,1,1,0,0
+Syrah,Italy,12.3,2,2,3,4,2,1,81.9,Premium,3,1,1,1,1,0,0,1,0
+Syrah,Australia,13.0,5,4,5,3,2,5,80.9,Icon,7,1,0,0,0,1,0,0,0
+Cabernet Sauvignon,USA,14.8,2,3,1,5,5,2,86.1,Icon,3,1,1,0,1,0,0,1,0
+Sauvignon Blanc,Argentina,14.8,2,3,4,3,2,3,91.7,Ultra Premium,3,0,1,0,0,0,0,1,1
+Cabernet Franc,Italy,11.4,4,5,2,5,1,2,88.3,Premium,10,1,1,1,1,0,0,0,1
+Tempranillo,Argentina,15.4,5,2,5,5,5,2,92.9,Icon,8,0,1,0,0,1,0,1,0
+Syrah,Italy,14.9,5,3,5,2,3,2,84.4,Ultra Premium,6,1,0,0,1,1,0,0,0
+Merlot,Chile,11.5,3,5,4,2,2,1,89.5,Entry,15,1,1,1,0,1,1,1,0
+Nebbiolo,Chile,12.8,1,5,4,5,1,1,86.3,Ultra Premium,13,1,0,0,0,0,1,1,0
+Pinot Noir,Australia,14.1,2,2,4,1,3,2,82.3,Entry,9,0,0,0,0,1,1,1,0
+Cabernet Franc,Chile,13.6,5,2,2,2,2,2,81.0,Entry,7,1,1,1,0,0,0,0,1
+Malbec,USA,11.2,1,3,3,4,5,2,88.7,Icon,10,0,1,1,1,1,1,1,0
+Carmenere,Italy,12.0,1,2,3,1,2,3,96.4,Entry,3,0,1,0,1,1,0,0,0
+Chardonnay,France,13.5,3,3,4,1,2,1,81.9,Ultra Premium,2,0,0,0,1,1,1,1,1
+Bonarda,Argentina,13.1,3,4,1,1,2,3,94.3,Icon,19,1,1,0,0,1,0,0,0
+Bonarda,Spain,11.4,4,5,2,2,1,2,89.7,Entry,4,1,1,0,0,0,0,1,0
+Carmenere,Italy,14.7,1,5,2,4,3,1,97.7,Ultra Premium,15,0,1,1,0,0,0,0,1
+Syrah,France,12.7,4,5,4,3,5,1,81.8,Icon,10,0,0,0,0,1,0,0,0
+Malbec,Spain,11.3,1,1,5,5,2,1,84.6,Icon,10,0,0,0,1,1,1,0,0
+Carmenere,Australia,12.1,3,3,2,2,5,2,96.4,Ultra Premium,16,0,0,1,0,1,0,1,0
+Malbec,Spain,15.1,4,2,4,5,5,5,97.4,Icon,1,1,0,1,1,1,0,0,0
+Torrontes,France,15.4,4,1,3,5,4,3,94.8,Entry,2,0,1,0,1,1,0,1,1
+Zinfandel,France,12.1,5,5,2,2,4,2,93.2,Ultra Premium,2,0,1,0,0,1,1,0,0
+Cabernet Franc,Italy,13.1,5,3,4,2,1,2,94.6,Icon,2,0,0,1,1,1,0,1,0
+Pinot Noir,Spain,11.1,5,3,2,3,5,4,91.2,Premium,15,0,0,1,1,0,0,0,1
+Sauvignon Blanc,Germany,14.1,3,2,3,3,2,2,93.5,Icon,9,0,0,0,0,0,0,1,1
+Merlot,Germany,12.1,4,5,5,1,2,5,84.6,Entry,1,0,0,0,0,1,1,0,0
+Garnacha,Australia,13.3,1,1,2,1,2,2,92.9,Ultra Premium,9,1,1,1,0,0,1,0,1
+Tempranillo,Chile,13.1,2,4,3,3,2,1,91.2,Entry,10,0,0,0,0,0,1,1,0
+Nebbiolo,France,14.2,2,3,3,2,3,1,92.9,Premium,7,0,1,1,0,0,0,0,0
+Bonarda,USA,15.4,4,5,2,4,5,1,86.0,Entry,16,1,1,0,1,1,0,0,0
+Sangiovese,Italy,13.9,4,2,1,3,2,1,97.4,Icon,19,1,1,0,1,1,0,0,0
+Pinot Noir,Italy,13.9,1,1,5,3,2,2,86.6,Ultra Premium,1,0,0,1,0,1,0,1,0
+Riesling,Spain,11.4,1,3,2,4,3,4,94.6,Premium,14,1,0,1,0,0,0,0,1
+Syrah,Italy,13.6,2,1,5,3,4,4,80.8,Ultra Premium,2,1,0,0,0,1,0,0,0
+Syrah,Spain,13.4,5,4,5,4,2,1,89.1,Icon,6,0,0,0,0,0,0,0,0
+Nebbiolo,Italy,13.8,1,1,3,3,4,5,90.5,Ultra Premium,13,0,0,1,0,1,0,1,0
+Syrah,Germany,14.3,1,2,4,4,2,4,87.5,Entry,10,0,0,1,1,1,1,1,0
+Garnacha,Portugal,11.5,2,5,4,3,2,4,81.7,Entry,16,0,1,1,1,0,1,0,0
+Bonarda,USA,11.6,3,2,2,5,5,1,81.4,Entry,17,0,0,0,0,1,1,0,0
+Semillon,USA,13.2,5,2,1,2,1,1,96.8,Premium,17,0,0,1,0,1,0,1,1
+Bonarda,Germany,15.3,3,2,5,5,1,3,89.8,Icon,12,0,0,0,1,0,1,1,0
+Carmenere,Portugal,13.2,3,4,1,2,1,4,92.0,Premium,3,1,1,0,0,0,0,0,0
+Tempranillo,France,13.6,5,2,1,2,2,3,96.3,Premium,17,1,1,1,1,1,1,1,0
+Nebbiolo,Chile,14.3,3,4,2,2,5,2,88.9,Ultra Premium,8,1,1,1,1,0,1,0,1
+Cabernet Franc,Argentina,14.5,4,3,4,3,5,5,93.6,Premium,11,1,1,1,1,0,1,1,0
+Chenin Blanc,Chile,13.9,2,3,3,4,2,3,93.3,Ultra Premium,5,1,0,1,1,1,1,1,1
+Cabernet Franc,Portugal,15.3,4,4,3,5,4,3,80.6,Entry,10,0,0,0,1,1,0,1,0
+Riesling,France,14.3,5,4,4,1,1,3,90.2,Entry,18,0,1,0,0,1,0,0,1
+Cabernet Sauvignon,Chile,13.4,3,4,4,4,5,2,85.7,Ultra Premium,17,1,0,1,1,1,1,1,0
+Carmenere,Chile,12.3,3,2,5,2,3,1,96.6,Icon,11,1,1,1,0,0,0,1,0
+Sauvignon Blanc,Chile,12.2,4,5,2,4,3,2,85.7,Icon,8,1,1,0,0,1,1,0,1
+Bonarda,USA,11.5,2,2,1,5,2,4,94.6,Ultra Premium,14,0,1,1,1,1,1,1,0
+Garnacha,Portugal,13.6,4,5,3,4,2,2,95.2,Icon,11,1,0,0,0,0,0,0,0
+Sangiovese,France,13.4,2,1,3,2,1,5,94.4,Icon,14,1,0,0,0,0,0,1,0
+Pinot Noir,Spain,13.5,4,5,3,1,2,3,95.3,Ultra Premium,5,0,1,0,1,1,1,1,0
+Tempranillo,Germany,15.0,3,2,1,2,5,1,95.0,Icon,8,0,1,1,0,0,1,1,1
+Pinot Noir,Italy,13.3,1,3,4,1,5,1,87.8,Entry,10,1,0,1,0,0,1,0,0
+Zinfandel,USA,15.5,2,1,3,4,2,3,92.7,Ultra Premium,11,0,0,1,1,1,1,0,0
+Pinot Noir,France,13.4,4,1,1,4,5,1,86.2,Entry,13,0,1,0,0,1,1,1,0
+Semillon,Portugal,12.6,4,1,2,1,1,1,87.4,Icon,10,0,0,0,0,0,1,1,1
+Bonarda,Australia,12.9,1,4,5,4,3,5,92.1,Premium,11,0,1,1,1,0,1,0,0
+Sauvignon Blanc,Germany,13.7,5,3,4,3,2,2,89.7,Entry,2,0,0,0,0,1,0,1,1
+Riesling,Argentina,13.4,5,2,4,4,3,1,94.9,Icon,5,0,0,1,1,1,1,0,1
+Nebbiolo,Australia,14.3,5,2,3,5,5,4,92.4,Ultra Premium,3,0,0,0,1,1,0,1,0
+Nebbiolo,Australia,12.3,2,1,4,3,1,1,97.8,Icon,14,1,0,1,1,0,1,1,0
+Carmenere,France,14.9,1,3,5,5,1,4,80.9,Icon,12,0,0,0,0,0,1,1,0
+Riesling,Portugal,14.3,2,4,3,4,3,2,84.7,Premium,5,1,1,1,0,1,1,1,1
+Sauvignon Blanc,Germany,13.2,5,4,3,4,5,1,97.2,Entry,16,1,1,1,1,1,0,1,1
+Semillon,Australia,11.6,2,3,1,3,4,2,80.9,Premium,17,1,1,0,1,1,0,1,1
+Cabernet Franc,Chile,14.1,1,4,4,1,3,2,88.8,Icon,18,0,1,0,0,1,0,0,0
+Bonarda,Australia,12.0,3,3,1,2,4,5,91.2,Icon,12,0,1,0,0,1,0,0,0
+Semillon,Chile,11.5,2,4,3,1,1,4,81.2,Ultra Premium,14,0,0,0,1,0,0,1,1
+Merlot,Argentina,15.3,1,2,3,1,4,3,94.5,Icon,13,0,0,1,0,0,1,1,0
+Malbec,France,14.6,5,5,2,1,3,2,84.1,Ultra Premium,2,0,1,0,0,0,0,0,0
+Riesling,Italy,11.4,5,5,2,1,3,5,84.0,Entry,7,0,1,0,0,0,0,1,1
+Semillon,Spain,11.8,1,1,5,5,4,1,81.6,Ultra Premium,1,0,1,1,1,1,0,0,1
+Malbec,USA,13.6,4,3,2,1,3,1,81.0,Entry,4,0,1,0,0,1,0,0,0
+Cabernet Sauvignon,Australia,14.0,4,4,4,5,5,5,86.1,Premium,7,1,0,1,1,1,0,0,0
+Sangiovese,Germany,12.2,4,3,1,3,1,2,93.3,Icon,10,1,1,1,0,0,0,0,1
+Syrah,Portugal,13.0,3,3,1,3,4,4,93.8,Ultra Premium,17,1,0,0,0,0,1,1,1
+Sauvignon Blanc,Portugal,13.4,2,2,3,4,4,4,85.6,Ultra Premium,13,0,1,0,1,1,1,0,1
+Zinfandel,Germany,14.3,5,3,2,1,4,4,85.1,Premium,11,1,1,1,0,0,0,1,1
+Malbec,France,15.3,1,5,1,2,4,2,93.6,Ultra Premium,11,0,1,0,1,0,0,0,0
+Nebbiolo,Spain,14.3,1,2,2,2,2,4,87.4,Premium,8,1,1,0,1,0,1,1,1
+Chardonnay,USA,12.3,2,1,3,2,5,4,94.3,Entry,4,0,1,1,1,1,0,1,1
+Malbec,Germany,14.6,5,3,4,5,5,2,80.8,Premium,14,0,0,0,0,0,0,0,0
+Syrah,Argentina,11.1,2,4,5,3,3,4,94.4,Premium,14,1,0,1,1,1,1,1,0
+Semillon,Argentina,12.6,2,2,2,1,4,3,85.4,Premium,14,0,0,0,1,0,0,1,1
+Pinot Noir,Spain,13.2,2,4,2,3,1,3,92.7,Ultra Premium,7,1,0,1,0,0,0,0,1
+Semillon,Chile,12.9,1,2,5,5,1,2,94.5,Icon,18,0,0,1,1,1,1,0,1
+Bonarda,Portugal,11.8,5,3,2,1,2,3,94.2,Ultra Premium,7,0,1,0,1,0,0,1,0
+Zinfandel,Italy,12.8,1,2,1,4,1,3,95.1,Ultra Premium,2,0,0,1,0,0,0,0,1
+Tempranillo,USA,12.3,1,5,2,4,4,5,95.9,Premium,4,1,0,1,1,1,1,1,0
+Riesling,Italy,12.3,2,5,5,2,2,2,82.5,Entry,7,0,0,0,1,1,0,1,1
+Chardonnay,Australia,15.2,4,1,2,5,2,4,87.2,Entry,5,1,0,0,1,0,0,1,1
+Nebbiolo,Argentina,13.4,5,3,4,2,3,5,87.8,Ultra Premium,17,0,0,1,1,0,0,0,0
+Chenin Blanc,USA,11.4,1,3,4,1,2,5,81.0,Icon,3,0,1,0,1,1,1,0,1
+Chardonnay,Chile,12.0,2,2,2,4,1,5,85.2,Premium,13,0,0,1,1,1,1,0,1
+Chenin Blanc,Italy,12.6,3,3,5,3,4,4,96.5,Entry,18,1,1,1,1,0,1,0,1
+Chardonnay,Australia,13.0,5,4,2,1,3,5,90.8,Premium,11,1,1,0,1,0,1,0,1
+Semillon,Portugal,11.9,5,1,2,2,1,4,84.8,Entry,13,0,0,1,1,1,1,0,1
+Torrontes,France,11.8,2,4,5,1,1,1,81.4,Icon,3,1,1,0,0,1,1,1,1
+Nebbiolo,Argentina,11.7,2,3,5,1,3,5,96.7,Ultra Premium,14,1,0,1,0,1,1,1,0
+Chenin Blanc,Portugal,12.0,3,4,3,3,4,1,84.9,Premium,19,0,1,1,0,1,0,1,1
+Sauvignon Blanc,Spain,12.0,3,4,4,3,4,4,95.6,Ultra Premium,4,0,0,0,0,1,1,0,1
+Nebbiolo,Chile,13.9,4,2,3,3,1,5,80.9,Icon,2,1,1,1,0,1,0,0,0
+Sangiovese,Spain,11.3,1,1,5,3,2,1,88.5,Icon,3,0,1,1,1,1,1,0,0
+Carmenere,Argentina,13.4,1,3,4,2,4,1,95.3,Ultra Premium,7,0,1,1,1,1,1,1,0
+Riesling,Portugal,12.6,1,3,2,4,1,1,95.0,Premium,5,0,0,0,1,1,1,1,1
+Nebbiolo,Spain,14.6,1,3,4,2,1,2,96.4,Entry,7,0,0,0,0,0,0,0,0
+Syrah,Australia,14.1,5,3,5,4,4,5,84.5,Premium,9,0,1,1,0,0,0,0,0
+Garnacha,Portugal,15.1,3,3,4,1,4,1,85.6,Ultra Premium,9,0,1,0,0,0,0,1,0
+Sangiovese,Spain,12.7,4,3,1,2,4,4,91.5,Entry,12,0,1,1,1,1,1,1,0
+Syrah,Spain,12.2,5,1,3,1,2,1,92.4,Icon,17,1,0,0,0,0,1,0,0
+Syrah,Portugal,15.2,1,2,1,2,1,2,96.4,Icon,15,1,0,1,1,1,0,1,0
+Zinfandel,Australia,12.5,2,2,3,2,3,1,80.2,Ultra Premium,4,1,0,0,1,0,0,1,0
+Malbec,Argentina,13.6,4,5,4,2,4,3,80.3,Icon,11,0,1,0,1,0,0,1,0
+Torrontes,Spain,14.4,1,1,4,2,5,5,80.8,Premium,7,0,1,1,1,0,1,1,1
+Chardonnay,Chile,12.2,2,1,2,2,5,4,93.0,Ultra Premium,3,1,0,0,0,1,0,1,1
+Riesling,Spain,12.5,2,5,4,5,5,4,94.1,Ultra Premium,1,1,1,0,0,1,1,0,1
+Chenin Blanc,Australia,15.1,2,3,1,5,1,1,82.3,Ultra Premium,3,0,0,1,0,1,1,1,1
+Cabernet Franc,Germany,15.0,5,5,1,4,3,1,84.3,Entry,2,1,0,1,0,0,1,0,1
+Tempranillo,Spain,12.3,4,2,2,2,4,5,92.6,Entry,6,1,1,1,1,0,0,0,1
+Riesling,Italy,12.7,3,2,3,2,5,4,91.7,Premium,12,1,1,0,0,1,1,0,1
+Bonarda,Portugal,15.2,2,1,1,1,2,3,82.0,Premium,1,0,1,0,0,0,1,0,1
+Syrah,Italy,13.1,2,3,2,2,1,1,85.3,Entry,7,0,0,1,1,0,1,1,1
+Garnacha,Germany,14.8,1,4,3,3,5,1,81.8,Ultra Premium,15,0,0,1,0,0,1,0,0
+Torrontes,Spain,13.6,2,3,1,5,4,2,89.8,Ultra Premium,3,1,0,1,1,0,0,1,1
+Sangiovese,Australia,13.7,3,5,3,2,1,4,95.4,Entry,11,1,1,1,0,1,0,1,0
+Carmenere,Spain,15.4,2,5,5,1,3,3,83.4,Premium,6,0,1,1,0,1,0,0,0
+Chenin Blanc,Spain,13.2,2,5,2,4,2,2,87.7,Premium,17,1,0,1,0,0,0,0,1
+Malbec,Chile,11.2,5,3,4,1,5,1,89.1,Entry,16,1,0,0,1,0,1,0,0
+Tempranillo,Portugal,11.3,1,2,2,3,1,3,88.8,Entry,18,1,0,1,0,1,1,1,0
+Carmenere,Argentina,11.2,4,2,3,3,1,2,94.2,Premium,5,1,1,0,0,1,0,0,0
+Tempranillo,Germany,15.5,2,1,1,4,1,1,87.2,Ultra Premium,19,0,1,1,0,1,0,0,0
+Riesling,Portugal,11.8,3,5,5,5,2,4,84.8,Ultra Premium,11,1,1,1,1,1,0,0,1
+Carmenere,Italy,13.0,5,3,3,3,5,1,80.2,Icon,16,0,1,0,1,0,1,0,0
+Nebbiolo,Chile,14.2,4,1,4,4,3,5,83.5,Icon,6,0,0,0,0,0,0,1,0
+Garnacha,France,13.3,3,2,5,1,1,3,86.5,Entry,19,0,0,0,0,1,1,1,0
+Chenin Blanc,Australia,13.6,2,3,1,3,1,5,83.3,Premium,15,1,1,0,0,1,0,0,1
+Tempranillo,Argentina,12.4,1,4,5,3,4,3,92.1,Premium,17,0,1,1,0,0,1,0,0
+Semillon,USA,14.1,3,4,3,5,1,4,82.1,Icon,8,0,0,1,1,1,0,1,1
+Semillon,USA,12.7,1,4,3,2,2,2,83.9,Icon,12,0,0,0,0,0,0,0,1
+Malbec,Spain,11.6,2,2,4,1,2,3,97.2,Icon,3,0,0,0,0,1,0,0,0
+Sauvignon Blanc,USA,15.0,2,3,3,1,5,4,97.7,Icon,19,1,0,1,1,0,0,0,1
+Sangiovese,Argentina,12.7,1,4,3,1,1,5,86.1,Ultra Premium,16,0,0,1,1,0,0,1,0
+Chardonnay,Germany,11.1,5,3,3,2,4,2,93.1,Ultra Premium,13,1,0,0,1,0,1,0,1
+Cabernet Franc,Australia,11.5,5,5,4,2,5,1,95.3,Icon,8,0,1,1,1,0,0,0,0
+Syrah,Chile,13.5,2,1,4,2,1,1,83.3,Icon,13,0,1,0,1,0,1,1,0
+Chardonnay,Argentina,14.5,3,4,3,2,1,2,90.1,Icon,18,1,0,0,1,0,1,1,1
+Torrontes,France,12.2,5,3,1,3,1,5,94.2,Icon,8,1,0,0,0,0,0,1,1
+Semillon,Spain,15.5,2,5,1,4,1,4,94.9,Ultra Premium,19,1,1,1,1,1,1,0,1
+Syrah,Portugal,11.8,5,4,2,3,5,1,85.3,Entry,12,0,1,1,1,0,1,1,1
+Cabernet Sauvignon,Italy,15.3,1,2,4,3,4,5,88.8,Ultra Premium,1,1,0,0,1,0,0,0,0
+Carmenere,Portugal,12.7,2,5,3,1,1,4,83.5,Ultra Premium,5,0,1,1,0,1,0,0,0
+Pinot Noir,Italy,12.0,2,5,3,2,2,5,85.6,Ultra Premium,18,0,0,0,1,0,1,0,0
+Tempranillo,Portugal,12.0,3,5,1,3,4,5,85.8,Entry,5,1,0,0,0,1,1,0,0
+Riesling,Portugal,14.3,1,1,2,4,1,1,87.3,Entry,7,0,1,0,0,1,1,1,1
+Cabernet Franc,USA,14.0,2,5,5,3,2,1,97.5,Entry,2,0,1,0,0,1,1,0,0
+Bonarda,Argentina,12.4,2,2,5,3,3,5,94.6,Entry,17,1,1,0,0,0,0,0,0
+Merlot,Australia,13.8,5,5,1,1,1,3,91.6,Premium,10,1,0,0,0,0,1,0,1
+Zinfandel,Germany,13.4,4,2,2,1,5,5,81.3,Ultra Premium,8,0,0,0,1,0,0,1,0
+Cabernet Franc,Australia,12.2,3,1,4,1,5,2,93.3,Ultra Premium,19,0,1,0,0,0,0,0,0
+Semillon,Spain,12.2,5,1,5,5,3,4,94.3,Ultra Premium,15,1,1,1,0,0,0,0,1
+Nebbiolo,Australia,12.1,2,5,3,2,2,5,91.5,Ultra Premium,18,1,0,0,1,1,1,1,0
+Cabernet Sauvignon,Germany,11.2,3,1,3,3,4,4,97.3,Entry,2,1,0,1,0,0,1,0,0
+Semillon,Germany,11.4,4,5,2,3,2,1,88.0,Icon,12,0,1,1,0,1,0,1,1
+Torrontes,Spain,11.6,4,1,2,5,1,5,90.8,Premium,16,0,1,1,0,0,0,1,1
+Merlot,Argentina,13.4,3,1,5,5,1,5,85.8,Premium,3,0,1,0,0,0,1,0,0
+Nebbiolo,France,13.8,4,1,4,4,3,5,80.4,Entry,19,0,1,0,1,1,0,0,0
+Torrontes,Italy,11.7,1,4,1,5,1,2,85.7,Icon,5,0,0,1,1,1,1,1,1
+Cabernet Franc,Portugal,12.9,3,4,2,1,1,5,90.6,Premium,1,0,0,0,0,0,1,1,1
+Carmenere,France,12.9,2,5,3,4,3,3,86.0,Entry,4,0,1,1,1,1,0,1,0
+Tempranillo,USA,11.7,1,3,5,1,1,3,87.9,Ultra Premium,11,1,1,0,0,1,1,0,0
+Garnacha,France,11.5,4,1,2,1,4,3,88.9,Premium,10,1,0,0,1,0,0,0,0
+Garnacha,Germany,13.8,4,4,2,2,2,4,86.4,Ultra Premium,18,1,1,0,0,0,1,0,1
+Carmenere,France,14.9,5,2,4,4,1,4,87.5,Premium,11,1,0,1,1,0,0,0,0
+Cabernet Franc,France,12.4,1,1,3,3,4,5,88.8,Icon,7,0,1,0,1,0,0,1,0
+Cabernet Franc,Argentina,12.0,5,4,1,3,5,1,94.6,Icon,15,1,0,1,1,0,0,0,1
+Malbec,Australia,11.0,1,5,2,5,3,5,87.4,Entry,7,1,0,1,1,1,0,0,0
+Carmenere,Spain,13.9,2,3,5,1,4,4,93.8,Entry,15,1,0,0,0,0,0,0,0
+Tempranillo,Germany,12.6,2,1,1,1,1,1,96.3,Entry,12,1,1,0,0,0,1,1,1
+Semillon,Australia,11.4,3,2,4,3,2,4,85.7,Icon,7,1,1,0,1,0,0,0,1
+Semillon,USA,15.4,3,5,3,3,2,3,96.5,Entry,9,0,0,1,0,0,1,0,1
+Syrah,Italy,14.1,4,2,5,5,3,5,94.3,Entry,9,1,1,0,1,0,1,1,0
+Torrontes,France,12.2,3,4,1,2,4,1,93.0,Premium,11,0,0,1,1,0,0,1,1
+Garnacha,Spain,12.2,3,2,1,4,1,5,87.2,Icon,8,1,1,0,1,1,1,0,0
+Chardonnay,Australia,14.8,4,2,5,1,4,3,87.3,Entry,8,0,1,0,1,1,1,0,1
+Chardonnay,Portugal,11.5,5,3,2,2,3,4,80.9,Entry,18,1,0,0,1,0,1,0,1
+Zinfandel,Italy,13.1,4,3,1,3,1,1,97.3,Icon,13,1,0,0,1,1,1,0,0
+Merlot,Australia,11.6,4,3,5,5,1,2,88.7,Entry,16,0,1,1,0,1,0,1,0
+Malbec,France,14.1,1,2,2,4,2,2,88.7,Ultra Premium,17,1,0,1,1,0,1,1,1
+Garnacha,Italy,15.3,2,4,5,4,5,2,89.6,Entry,3,1,1,0,1,1,0,0,0
+Sauvignon Blanc,Portugal,11.2,4,4,2,3,1,2,83.6,Premium,18,1,1,1,1,0,1,0,1
+Sangiovese,Chile,12.5,2,1,4,3,1,2,97.8,Entry,11,0,0,1,0,0,1,1,0
+Nebbiolo,Portugal,14.9,3,2,1,4,2,5,88.6,Icon,5,0,1,0,0,0,1,0,1
+Chardonnay,Italy,11.2,1,5,2,3,3,1,84.3,Premium,4,1,0,1,1,1,0,1,1
+Cabernet Franc,France,12.7,3,3,5,3,2,1,87.6,Entry,17,0,1,0,1,0,0,0,0
+Cabernet Franc,Argentina,14.7,2,2,3,4,1,1,84.2,Ultra Premium,11,0,1,0,0,0,1,0,0
+Sauvignon Blanc,Italy,12.0,2,4,1,1,5,5,89.4,Premium,6,0,1,0,1,1,1,0,1
+Garnacha,Germany,14.0,5,3,3,3,1,2,82.0,Premium,5,1,1,0,1,0,0,0,0
+Cabernet Sauvignon,Australia,11.7,4,5,5,4,4,1,86.6,Premium,16,0,1,0,1,0,1,0,0
+Cabernet Sauvignon,Australia,12.1,1,2,3,1,2,3,82.3,Premium,6,1,0,1,0,0,0,0,0
+Syrah,Spain,11.2,3,1,2,2,2,5,88.2,Ultra Premium,5,0,0,0,0,0,0,0,0
+Chenin Blanc,Spain,12.1,2,1,1,5,3,2,96.2,Ultra Premium,12,0,0,1,0,1,1,0,1
+Garnacha,Portugal,14.1,2,3,5,2,5,1,91.7,Premium,19,1,0,0,0,0,0,1,0
+Nebbiolo,Germany,15.4,3,2,3,3,5,4,96.3,Premium,13,1,0,0,1,1,1,1,0
+Syrah,USA,14.5,4,2,3,5,2,2,94.9,Ultra Premium,10,0,1,1,1,0,0,1,0
+Malbec,Chile,11.8,3,3,3,2,3,2,91.5,Premium,18,0,1,1,0,0,0,0,0
+Riesling,Spain,11.6,1,5,5,3,5,4,90.1,Icon,7,0,1,1,1,0,1,0,1
+Nebbiolo,France,12.8,4,3,1,2,5,1,90.4,Icon,12,0,0,1,0,1,0,0,0
+Garnacha,Chile,11.1,2,4,5,3,4,1,88.8,Entry,12,1,1,0,0,0,0,0,0
+Tempranillo,Portugal,15.5,1,4,5,5,4,2,91.7,Entry,17,1,0,1,0,0,0,1,0
+Zinfandel,France,13.6,2,2,3,3,3,3,89.3,Entry,19,0,1,0,1,0,1,1,0
+Riesling,Portugal,13.1,5,3,3,4,3,1,81.2,Icon,6,1,0,0,1,1,0,0,1
+Chardonnay,Australia,13.6,2,5,4,5,5,2,89.2,Premium,1,1,0,1,0,0,0,0,1
+Pinot Noir,Portugal,11.7,5,4,4,2,3,2,85.6,Ultra Premium,5,0,1,1,0,0,0,1,0
+Sauvignon Blanc,USA,11.3,4,5,3,4,3,4,87.5,Premium,13,0,1,0,1,0,1,1,1
+Malbec,Germany,12.4,1,2,1,3,5,1,96.4,Ultra Premium,3,1,0,1,1,0,0,0,1
+Pinot Noir,Argentina,13.4,3,5,5,3,3,1,80.4,Icon,12,1,0,1,1,0,0,1,0
+Malbec,USA,11.7,5,5,5,4,1,4,93.0,Icon,5,0,1,0,0,1,1,1,0
+Bonarda,Spain,14.6,1,5,5,3,1,4,86.0,Icon,1,0,0,0,0,1,0,0,0
+Garnacha,Chile,11.7,3,5,1,5,4,5,96.6,Ultra Premium,18,0,1,0,1,0,0,1,0
+Garnacha,Portugal,13.2,3,4,5,5,3,4,87.6,Entry,5,1,0,1,1,1,1,0,0
+Bonarda,USA,14.1,1,5,3,1,3,1,90.4,Premium,15,1,0,1,1,0,1,1,0
+Riesling,Argentina,13.6,5,3,4,4,4,5,81.7,Ultra Premium,13,0,1,0,0,0,1,1,1
+Riesling,Spain,14.5,5,1,5,4,1,5,92.3,Icon,11,0,0,0,1,1,0,0,1
+Sauvignon Blanc,Portugal,15.3,1,4,2,3,2,5,84.8,Entry,18,1,0,0,1,1,1,1,1
+Semillon,Italy,15.0,1,1,2,1,1,5,89.7,Ultra Premium,19,1,0,1,1,1,0,0,1
+Nebbiolo,USA,11.3,1,1,3,2,5,2,95.5,Premium,8,1,0,1,1,0,0,0,0
+Chardonnay,Spain,12.7,5,5,1,2,2,3,84.2,Icon,6,1,1,0,0,0,1,0,1
+Malbec,Portugal,15.4,2,4,4,2,5,1,95.5,Ultra Premium,8,0,1,0,1,1,0,0,0
+Tempranillo,Italy,14.6,3,3,2,3,3,2,94.9,Entry,5,1,0,0,0,0,1,1,1
+Syrah,Australia,13.6,2,4,5,3,4,3,97.3,Icon,14,1,1,0,0,1,1,1,0
+Garnacha,France,13.0,3,3,5,4,3,2,80.2,Entry,15,0,0,1,1,0,1,1,0
+Chardonnay,Spain,13.5,3,2,3,4,1,4,87.2,Ultra Premium,13,0,0,0,1,0,0,1,1
+Chenin Blanc,Italy,12.4,5,2,1,4,2,1,84.7,Ultra Premium,10,1,0,1,0,0,1,1,1
+Riesling,Italy,13.1,1,2,1,1,4,5,96.3,Icon,15,1,1,0,1,0,1,1,1
+Cabernet Sauvignon,USA,14.3,3,1,4,5,4,5,96.2,Icon,17,1,0,1,0,1,0,1,0
+Riesling,Italy,12.8,4,2,4,3,5,3,93.4,Icon,8,1,1,1,0,0,1,1,1
+Cabernet Sauvignon,Portugal,11.5,5,5,4,3,2,5,89.3,Icon,4,0,0,0,0,0,0,1,0
+Riesling,USA,11.9,1,4,3,2,3,4,86.9,Ultra Premium,16,0,0,1,0,1,1,0,1
+Sauvignon Blanc,Chile,11.3,5,5,5,1,1,5,95.2,Ultra Premium,12,1,0,1,0,1,1,0,1
+Torrontes,Germany,14.5,2,4,4,2,5,5,87.8,Ultra Premium,8,0,0,1,0,0,0,0,1
+Syrah,Argentina,13.3,2,4,4,2,4,2,82.3,Entry,19,1,1,1,1,0,1,1,0
+Sangiovese,Germany,14.8,5,1,2,4,5,3,80.7,Icon,1,0,1,1,0,0,1,0,1
+Garnacha,Italy,12.1,2,3,5,5,1,5,86.2,Icon,6,1,1,0,0,0,1,0,0
+Nebbiolo,USA,14.6,5,1,1,4,5,2,90.1,Entry,2,1,1,1,0,0,1,1,1
+Chardonnay,USA,13.4,5,1,1,4,5,3,90.9,Premium,9,1,0,0,1,1,1,1,1
+Sangiovese,USA,12.9,3,4,5,5,2,3,92.9,Icon,15,1,0,0,0,1,0,0,0
+Zinfandel,Argentina,15.2,1,1,1,4,2,4,87.7,Icon,4,1,1,0,0,1,1,1,0
+Merlot,Spain,11.6,1,1,5,4,1,2,96.4,Ultra Premium,4,1,1,0,1,0,1,1,0
+Pinot Noir,Portugal,11.7,2,2,2,1,1,5,94.9,Entry,13,0,1,1,0,0,0,0,1
+Garnacha,Portugal,11.7,1,2,1,4,3,4,87.6,Ultra Premium,2,1,0,1,1,1,1,1,0
+Pinot Noir,Germany,15.0,1,2,4,4,4,1,95.5,Premium,8,0,0,0,1,0,0,0,0
+Malbec,Australia,11.0,5,5,4,2,2,5,83.9,Premium,15,0,0,0,0,1,0,0,0
+Carmenere,USA,13.4,3,1,4,5,1,5,87.7,Entry,12,1,1,1,0,0,1,1,0
+Nebbiolo,Portugal,13.9,2,3,4,4,3,4,92.4,Entry,17,0,0,0,0,1,0,1,0
+Garnacha,USA,11.7,1,5,4,2,5,2,89.5,Entry,17,0,0,1,1,0,1,0,0
+Torrontes,USA,13.6,1,1,3,1,1,5,81.6,Premium,6,0,1,1,0,0,1,0,1
+Semillon,Italy,11.5,4,4,3,2,3,1,89.1,Icon,6,1,0,1,0,0,1,1,1
+Semillon,Portugal,11.1,2,5,2,1,5,4,83.8,Icon,8,0,1,1,1,1,1,0,1
+Cabernet Franc,Chile,12.8,4,4,2,2,2,3,80.7,Premium,8,0,0,0,0,1,1,1,0
+Sangiovese,Australia,13.6,5,4,2,5,4,3,82.4,Premium,17,0,0,0,0,1,0,1,0
+Merlot,France,14.5,1,1,5,5,2,3,93.6,Premium,13,0,0,0,1,0,1,1,0
+Semillon,USA,12.7,4,2,5,2,5,1,88.1,Entry,4,1,1,1,1,0,0,0,1
+Chardonnay,Australia,11.6,2,1,5,1,5,1,92.9,Ultra Premium,18,0,1,0,0,0,1,0,1
+Garnacha,Germany,13.7,3,3,4,2,5,1,95.8,Icon,1,1,0,0,1,1,0,1,0
+Carmenere,Argentina,13.4,4,4,2,4,1,3,91.9,Premium,16,0,0,1,1,1,1,1,0
+Chardonnay,USA,11.1,5,3,1,5,5,2,89.8,Entry,10,1,1,1,1,0,1,0,1
+Riesling,USA,12.4,4,5,2,1,2,3,86.0,Entry,3,0,1,0,0,0,1,0,1
+Nebbiolo,USA,12.2,5,4,3,1,5,4,83.6,Premium,15,0,1,1,0,1,0,0,0
+Torrontes,Portugal,11.5,1,2,1,3,5,5,85.6,Entry,15,1,1,0,1,1,1,0,1
+Tempranillo,Germany,14.3,4,3,1,2,4,3,87.3,Premium,18,0,1,1,0,0,1,1,1
+Syrah,Portugal,14.6,3,3,3,3,3,5,91.4,Premium,3,1,0,0,1,1,1,0,0
+Semillon,Chile,13.0,3,1,1,2,3,3,93.6,Ultra Premium,16,0,1,1,0,1,1,1,1
+Sauvignon Blanc,USA,12.9,2,5,3,4,5,2,88.1,Entry,14,0,0,1,0,0,1,1,1
+Zinfandel,Italy,14.4,3,3,1,4,5,3,92.4,Ultra Premium,16,0,1,0,0,1,0,0,0
+Sangiovese,France,12.4,5,5,1,4,4,1,80.4,Premium,16,0,1,1,0,1,1,0,0
+Garnacha,Portugal,14.3,4,4,2,4,2,5,97.4,Ultra Premium,18,0,0,1,0,1,0,0,0
+Tempranillo,Chile,13.4,4,4,1,4,1,5,95.2,Icon,5,1,1,1,1,1,1,1,0
+Carmenere,Australia,12.6,5,3,1,1,2,4,90.8,Ultra Premium,17,1,0,0,0,1,1,0,0
+Garnacha,France,15.5,3,3,1,3,2,1,87.9,Entry,5,0,0,1,1,0,1,1,1
+Tempranillo,Spain,14.1,3,1,1,3,2,3,90.9,Icon,1,0,0,1,1,0,1,0,1
+Pinot Noir,Australia,11.9,4,5,2,1,4,3,82.9,Icon,17,1,0,0,0,0,1,0,1
+Semillon,France,13.4,5,2,4,2,5,4,81.4,Premium,12,0,0,1,0,1,0,1,1
+Carmenere,Italy,12.4,1,2,4,3,5,2,86.1,Entry,5,0,0,0,0,1,1,0,0
+Carmenere,Spain,13.2,3,2,3,3,3,4,80.2,Ultra Premium,10,0,1,1,1,0,0,1,0
+Tempranillo,Portugal,14.2,4,1,1,2,5,5,91.5,Premium,16,1,1,1,0,0,0,1,1
+Merlot,France,13.6,1,5,1,5,4,3,91.2,Icon,2,0,1,1,0,0,0,0,1
+Sauvignon Blanc,Chile,12.3,5,5,4,4,2,4,80.3,Icon,9,1,1,1,0,1,1,0,1
+Bonarda,Germany,13.8,3,4,5,4,2,1,94.9,Ultra Premium,17,0,0,1,1,1,0,1,0
+Malbec,Spain,13.2,4,1,1,3,5,4,85.1,Entry,16,1,0,1,1,1,0,0,0
+Tempranillo,USA,15.4,3,1,1,2,5,2,82.0,Icon,10,0,0,1,0,1,0,0,0
+Carmenere,Australia,12.9,5,4,4,5,5,4,91.6,Entry,17,0,1,1,0,0,1,0,0
+Pinot Noir,USA,11.4,4,1,5,2,1,3,82.9,Ultra Premium,11,0,1,0,1,0,0,0,0
+Sauvignon Blanc,Spain,13.1,2,1,4,2,5,4,97.4,Icon,13,1,1,1,1,0,0,0,1
+Cabernet Sauvignon,Australia,15.3,4,5,5,3,3,1,87.9,Entry,14,0,0,0,1,0,0,0,0
+Bonarda,Australia,12.6,4,2,4,5,2,2,94.9,Ultra Premium,15,0,0,0,1,1,1,1,0
+Cabernet Sauvignon,USA,14.7,2,4,2,5,2,5,95.9,Icon,8,0,0,1,0,1,1,0,0
+Riesling,Argentina,13.0,4,1,3,2,1,3,82.8,Entry,12,1,1,1,1,1,0,0,1
+Chardonnay,Italy,12.0,5,3,1,3,5,5,97.0,Premium,4,1,1,1,0,1,1,1,1
+Tempranillo,France,12.8,5,2,5,2,3,5,96.4,Icon,7,1,0,1,1,0,0,0,0
+Syrah,France,11.1,4,2,2,1,5,5,96.3,Ultra Premium,1,1,0,0,1,1,1,1,0
+Merlot,USA,12.3,3,1,5,5,3,3,94.5,Icon,17,0,1,0,1,0,1,0,0
+Cabernet Sauvignon,France,14.0,2,3,5,3,5,2,87.9,Premium,3,1,1,0,1,1,1,1,0
+Tempranillo,France,14.0,3,1,5,5,5,5,85.2,Icon,12,1,1,1,0,0,1,1,0
+Zinfandel,USA,11.9,2,3,2,5,1,2,95.7,Ultra Premium,9,1,1,0,1,1,0,1,0
+Malbec,Chile,14.5,3,5,3,5,3,2,87.6,Icon,2,0,1,1,0,0,1,1,0
+Nebbiolo,Argentina,11.3,4,4,5,3,2,2,85.1,Premium,15,0,0,1,1,0,0,1,0
+Cabernet Franc,France,14.5,2,3,3,4,4,3,89.6,Icon,15,0,0,0,1,1,1,0,0
+Sangiovese,Chile,15.3,4,1,2,5,2,1,91.7,Icon,8,1,0,1,0,1,0,0,0
+Bonarda,Australia,11.8,3,4,5,5,2,2,94.0,Icon,14,0,1,1,1,1,0,1,0
+Tempranillo,Spain,11.6,3,4,5,3,2,3,80.3,Ultra Premium,3,1,0,1,1,1,1,1,0
+Garnacha,Chile,14.0,5,1,4,5,2,4,86.1,Premium,12,0,1,1,1,0,1,1,0
+Malbec,Argentina,11.9,1,5,1,3,1,4,91.8,Ultra Premium,2,0,0,1,0,1,1,0,0
+Merlot,Italy,13.1,1,3,2,1,5,3,92.3,Ultra Premium,18,1,1,0,1,0,1,0,1
+Bonarda,Argentina,15.1,1,2,4,5,1,4,81.7,Entry,4,0,0,1,1,0,0,0,0
+Torrontes,Spain,13.3,2,5,1,4,4,1,96.8,Entry,3,1,0,1,0,1,1,1,1
+Chenin Blanc,Portugal,13.5,2,3,2,5,4,2,89.6,Icon,14,1,1,1,0,1,1,0,1
+Merlot,Portugal,13.1,4,2,4,5,2,5,92.2,Icon,15,0,0,1,0,1,1,1,0
+Garnacha,Argentina,14.0,4,1,5,2,5,4,80.3,Entry,16,0,0,1,1,1,1,0,0
+Zinfandel,Spain,14.7,4,4,1,5,1,1,86.6,Ultra Premium,18,1,0,0,1,1,0,1,0
+Merlot,Chile,14.9,2,5,5,5,1,1,90.1,Premium,7,0,0,1,0,1,0,0,0
+Nebbiolo,Germany,14.5,2,2,1,3,2,4,81.6,Entry,11,0,1,1,1,0,1,1,1
+Tempranillo,Chile,15.2,3,5,2,4,5,4,81.5,Premium,18,1,1,1,0,1,0,0,0
+Torrontes,Spain,12.9,3,4,5,2,1,3,95.2,Premium,16,1,1,1,1,0,0,1,1
+Tempranillo,Germany,13.7,1,2,2,4,1,4,80.5,Premium,16,1,0,0,0,1,0,0,0
+Cabernet Franc,France,15.5,1,4,4,1,1,2,80.1,Ultra Premium,15,1,1,0,0,1,0,1,0
+Nebbiolo,Argentina,11.9,4,5,4,5,4,2,89.2,Premium,15,1,1,0,0,1,1,1,0
+Sauvignon Blanc,Australia,14.0,4,3,5,2,1,3,88.7,Premium,6,1,1,0,0,1,0,1,1
+Sangiovese,USA,12.5,2,3,3,2,1,5,95.2,Premium,3,1,0,1,0,0,0,0,0
+Bonarda,Germany,13.7,4,1,3,3,1,3,85.9,Premium,15,0,1,1,0,0,1,1,0
+Chenin Blanc,Portugal,12.8,4,2,5,3,3,3,95.6,Entry,6,0,0,1,1,1,0,0,1
+Bonarda,Argentina,15.2,3,2,3,3,5,5,97.4,Premium,8,0,1,1,1,0,1,0,0
+Garnacha,Portugal,12.3,4,3,1,5,1,3,95.8,Entry,1,1,1,0,0,0,0,1,0
+Nebbiolo,Germany,13.3,1,4,1,3,2,3,91.1,Icon,3,0,1,0,1,0,1,0,1
+Semillon,USA,13.1,4,4,2,2,5,2,96.5,Entry,18,1,0,0,1,1,0,0,1
+Nebbiolo,Chile,14.9,4,2,3,3,5,5,83.5,Premium,14,1,1,0,0,0,1,1,0
+Merlot,Italy,12.2,2,2,1,4,1,2,81.1,Premium,17,1,1,0,1,1,1,1,0
+Torrontes,Spain,12.7,2,1,1,1,4,1,89.6,Ultra Premium,2,1,0,0,0,1,1,1,1
+Zinfandel,Spain,13.4,3,3,2,1,1,5,80.6,Ultra Premium,15,0,0,1,1,0,0,1,1
+Tempranillo,USA,14.4,3,2,1,3,5,2,95.2,Premium,9,1,1,0,1,1,1,0,0
+Bonarda,Portugal,11.2,4,1,4,2,5,5,87.2,Entry,14,1,1,1,0,1,0,1,0
+Bonarda,USA,15.0,5,4,4,5,4,3,96.2,Entry,3,1,0,0,1,1,0,1,0
+Carmenere,Spain,12.8,2,1,2,3,1,1,88.6,Premium,15,0,0,0,1,0,1,0,1
+Pinot Noir,Chile,14.3,3,2,4,1,4,3,95.3,Icon,9,0,1,0,1,0,1,1,0
+Pinot Noir,Spain,12.0,3,4,5,5,5,3,83.6,Ultra Premium,18,0,0,0,1,1,0,1,0
+Garnacha,USA,15.3,3,5,5,4,1,2,96.0,Premium,6,0,0,1,0,0,1,0,0
+Chardonnay,Italy,12.1,5,5,5,5,2,1,92.1,Premium,13,0,1,1,1,0,0,1,1
+Zinfandel,Italy,14.6,5,4,3,5,2,1,80.3,Ultra Premium,12,1,0,0,1,0,1,0,0
+Tempranillo,Portugal,15.4,4,2,5,3,5,1,80.4,Premium,1,1,0,1,1,1,1,0,0
+Cabernet Sauvignon,Australia,13.6,3,3,1,4,5,1,92.8,Ultra Premium,6,1,0,1,0,0,0,1,1
+Riesling,Italy,15.4,5,1,3,4,2,3,91.2,Premium,1,1,1,1,1,1,0,0,1
+Carmenere,Spain,14.0,1,1,5,4,3,3,85.7,Icon,2,0,0,0,1,0,1,1,0
+Tempranillo,Australia,14.3,3,3,2,2,5,1,96.3,Icon,13,1,1,1,1,0,0,0,1
+Garnacha,Argentina,12.8,3,2,4,5,1,5,90.0,Entry,14,1,1,0,1,1,1,0,0
+Malbec,Portugal,13.2,5,2,4,2,5,2,80.7,Icon,15,0,1,1,1,1,1,0,0
+Tempranillo,Portugal,11.6,2,4,1,2,2,2,89.6,Entry,14,1,0,1,0,0,0,1,1
+Pinot Noir,Chile,11.7,3,3,1,1,2,1,86.2,Icon,6,1,1,0,1,0,0,1,0
+Torrontes,Italy,13.7,3,2,5,4,2,3,94.0,Entry,3,1,1,1,1,0,0,0,1
+Zinfandel,Italy,14.7,5,5,5,4,4,5,88.9,Entry,18,0,1,1,1,1,1,0,0
+Torrontes,Portugal,13.9,1,4,1,3,3,1,97.5,Ultra Premium,18,0,1,1,0,1,1,0,1
+Torrontes,Australia,14.5,5,1,4,4,4,4,90.0,Icon,15,1,0,1,0,0,1,0,1
+Bonarda,USA,14.5,5,4,3,3,2,4,95.1,Icon,13,1,0,1,0,0,1,1,0
+Sangiovese,Germany,12.3,2,3,4,5,2,3,95.4,Premium,8,1,0,0,0,0,1,1,0
+Torrontes,Portugal,11.0,4,3,5,1,2,2,88.3,Entry,6,0,0,0,0,0,0,1,1
+Syrah,Portugal,11.1,3,1,3,2,2,1,82.4,Ultra Premium,17,1,1,0,0,1,1,0,0
+Semillon,Argentina,14.1,5,3,5,1,3,2,95.0,Icon,10,0,1,1,1,0,1,0,1
+Garnacha,USA,14.2,3,2,2,5,3,1,83.9,Premium,9,0,0,1,0,1,0,0,0
+Sangiovese,Australia,13.9,1,2,1,5,1,1,88.9,Icon,9,1,1,1,0,1,1,1,0
+Zinfandel,Chile,15.5,4,3,5,2,3,3,88.0,Ultra Premium,6,0,1,1,1,0,1,1,0
+Garnacha,Chile,12.9,1,1,3,2,1,5,94.8,Icon,11,1,1,0,1,0,0,1,0
+Cabernet Franc,USA,14.9,3,5,4,3,3,3,93.5,Icon,14,1,0,1,0,1,1,1,0
+Pinot Noir,Italy,11.9,5,1,1,4,1,5,96.7,Icon,2,1,1,0,1,1,1,1,0
+Sangiovese,Germany,13.9,4,4,1,4,1,2,90.0,Entry,5,1,1,0,0,1,0,1,0
+Zinfandel,Australia,13.2,4,3,5,3,2,1,88.9,Entry,4,1,1,1,1,0,1,1,0
+Torrontes,Argentina,15.1,2,3,5,5,3,3,96.7,Entry,11,1,1,0,1,1,1,1,1
+Chenin Blanc,Portugal,13.2,2,4,2,1,4,2,90.4,Ultra Premium,15,0,1,0,1,1,1,1,1
+Torrontes,Chile,14.4,1,4,3,1,2,5,88.7,Entry,16,1,1,1,1,1,0,1,1
+Semillon,Portugal,15.5,5,3,2,3,2,1,90.2,Entry,15,1,1,1,0,1,1,1,1
+Sangiovese,Argentina,15.0,2,5,3,1,2,1,87.4,Ultra Premium,16,0,0,1,0,0,1,0,0
+Sauvignon Blanc,Germany,14.5,3,4,4,1,1,3,86.4,Icon,17,0,1,1,1,1,1,0,1
+Nebbiolo,France,12.4,4,4,2,2,2,3,83.5,Ultra Premium,12,1,1,0,1,1,0,1,0
+Bonarda,France,11.2,1,5,3,2,3,1,81.7,Premium,15,0,0,0,1,1,1,0,0
+Sangiovese,Portugal,11.9,2,2,1,2,5,4,96.0,Ultra Premium,2,0,1,0,1,0,0,0,0
+Bonarda,Australia,12.6,5,2,4,3,2,1,95.4,Entry,11,1,0,0,0,0,1,0,0
+Malbec,Germany,11.4,3,4,4,1,5,1,84.7,Premium,10,1,1,0,1,0,0,1,0
+Sangiovese,Italy,12.5,1,5,5,1,5,1,94.3,Ultra Premium,17,0,0,0,1,1,1,0,0
+Garnacha,Chile,14.5,4,3,5,4,5,4,83.6,Ultra Premium,2,1,0,0,0,0,0,0,0
+Chardonnay,Portugal,11.0,5,2,5,1,5,5,92.7,Entry,10,0,1,1,1,0,1,1,1
+Syrah,Argentina,13.9,5,3,2,2,4,3,86.7,Premium,3,1,1,0,0,1,0,0,0
+Cabernet Franc,Chile,12.1,3,3,5,5,4,2,88.9,Premium,19,1,1,1,0,1,1,1,0
+Bonarda,Portugal,15.2,1,5,3,5,3,5,84.6,Premium,16,1,0,0,0,1,1,0,0
+Zinfandel,Spain,11.2,1,2,1,3,5,4,82.4,Ultra Premium,18,1,1,0,1,0,1,0,1
+Torrontes,USA,11.5,5,5,3,5,1,4,94.7,Icon,2,1,0,1,0,1,0,1,1
+Chenin Blanc,Italy,11.9,2,2,2,1,4,2,96.4,Entry,3,0,0,1,0,1,1,1,1
+Nebbiolo,Italy,13.0,3,4,4,3,4,3,81.0,Icon,1,1,0,1,1,0,0,1,0
+Cabernet Sauvignon,Italy,12.6,4,1,1,1,2,2,82.3,Entry,19,1,0,0,1,0,1,1,1
+Bonarda,Chile,12.3,1,4,5,5,5,3,83.2,Entry,14,1,1,0,0,1,1,0,0
+Riesling,France,11.3,4,2,4,2,2,4,88.7,Icon,17,1,0,0,1,0,1,0,1
+Semillon,Spain,14.9,3,3,5,2,5,4,95.4,Icon,13,1,0,1,0,0,0,1,1
+Sauvignon Blanc,Argentina,15.3,3,2,3,3,2,3,98.0,Icon,11,0,1,0,0,0,1,1,1
+Sangiovese,France,14.8,2,5,3,5,4,2,86.4,Premium,18,1,1,0,1,1,1,0,0
+Carmenere,Chile,12.9,1,4,2,2,3,4,85.7,Premium,4,1,1,0,0,1,1,0,0
+Pinot Noir,Germany,11.2,3,2,1,1,5,5,81.3,Icon,9,0,1,0,0,0,1,1,1
+Zinfandel,Italy,14.1,3,3,3,1,4,1,90.6,Ultra Premium,11,0,1,0,0,0,1,0,0
+Chenin Blanc,Portugal,11.4,2,5,2,1,2,5,96.6,Icon,10,0,0,0,1,0,0,1,1
+Carmenere,Italy,13.1,2,4,1,1,1,3,88.8,Entry,7,0,0,1,1,1,1,0,0
+Sangiovese,Chile,13.8,4,4,4,3,3,2,92.5,Ultra Premium,9,1,0,0,0,1,0,0,0
+Zinfandel,Germany,14.5,5,5,1,5,2,2,86.2,Icon,1,0,1,0,1,1,0,0,0
+Merlot,Argentina,12.2,5,5,2,2,1,5,86.0,Premium,2,0,0,1,0,1,1,0,0
+Cabernet Sauvignon,France,12.4,4,2,4,3,1,5,94.7,Icon,3,0,0,1,1,0,0,0,0
+Bonarda,USA,15.1,2,3,4,1,5,1,93.2,Premium,14,0,0,0,0,1,1,1,0
+Pinot Noir,USA,14.3,4,4,1,3,5,3,91.4,Icon,10,1,0,1,1,0,1,0,1
+Bonarda,Italy,13.0,1,4,5,4,1,5,87.9,Icon,15,1,0,0,1,0,0,0,0
+Tempranillo,Portugal,12.8,2,1,2,3,3,2,92.2,Premium,2,1,0,1,1,1,1,0,0
+Tempranillo,Australia,11.5,5,1,2,1,4,3,95.5,Ultra Premium,9,0,1,1,0,1,0,1,0
+Semillon,USA,15.2,5,2,5,4,1,4,84.5,Ultra Premium,14,1,0,1,1,1,1,1,1
+Sangiovese,Argentina,11.9,2,1,4,2,2,2,90.0,Ultra Premium,11,1,1,0,0,0,1,0,0
+Torrontes,Spain,14.6,2,3,2,1,2,2,95.0,Ultra Premium,16,1,0,1,0,1,1,0,1
+Bonarda,USA,12.5,2,2,4,4,5,5,90.9,Premium,18,1,0,0,1,0,1,0,0
+Garnacha,Chile,11.6,4,2,2,5,5,3,81.0,Icon,18,1,1,0,0,0,0,1,0
+Tempranillo,Germany,12.2,2,5,3,5,2,3,91.0,Ultra Premium,13,0,0,0,0,0,1,0,0
+Chenin Blanc,Italy,11.1,5,1,4,3,4,3,84.1,Premium,11,0,0,0,1,1,1,1,1
+Carmenere,Portugal,15.0,5,1,1,3,1,5,80.6,Icon,17,0,1,0,0,1,0,1,0
+Riesling,USA,15.2,5,2,4,3,5,5,85.1,Ultra Premium,3,0,1,1,1,1,0,1,1
+Tempranillo,Germany,12.0,2,4,2,2,4,3,90.6,Entry,2,1,0,0,1,0,0,1,0
+Torrontes,Portugal,11.6,1,1,2,4,4,2,93.0,Ultra Premium,14,1,0,1,0,1,1,0,1
+Sangiovese,USA,14.6,5,2,3,1,2,3,90.8,Ultra Premium,17,1,1,0,1,0,0,1,0
+Syrah,Portugal,15.3,2,3,3,3,1,3,84.7,Icon,4,0,0,0,1,1,1,1,0
+Cabernet Sauvignon,France,14.9,3,2,2,4,4,3,86.5,Entry,3,1,1,0,0,0,1,0,1
+Malbec,Argentina,15.3,3,3,4,4,3,2,93.8,Premium,4,0,0,1,0,0,0,0,0
+Tempranillo,Argentina,13.5,1,5,1,2,2,2,94.4,Premium,12,1,0,1,1,0,0,1,1
+Chenin Blanc,France,12.9,1,2,2,3,2,5,86.3,Entry,4,0,1,1,0,0,0,1,1
+Semillon,USA,11.8,5,5,4,2,3,4,88.1,Icon,7,1,1,1,0,1,0,1,1
+Zinfandel,USA,13.8,1,1,4,2,2,4,81.8,Premium,9,0,0,0,1,0,0,0,0
+Sauvignon Blanc,Italy,14.4,5,3,5,2,1,3,89.5,Premium,8,0,0,1,0,1,0,0,1
+Torrontes,Australia,11.6,1,1,1,2,4,5,81.8,Premium,19,0,1,0,0,0,1,1,1
+Cabernet Franc,Australia,12.9,3,5,2,5,2,1,87.2,Icon,14,1,1,1,1,1,1,1,0
+Nebbiolo,Argentina,12.1,4,1,1,4,2,1,92.3,Entry,10,1,1,1,0,1,1,0,0
+Torrontes,Spain,12.8,1,4,5,4,1,4,87.0,Premium,11,1,0,1,0,1,1,0,1
+Chardonnay,Spain,13.2,5,5,1,2,5,3,89.8,Icon,19,0,1,1,1,1,0,0,1
+Carmenere,Spain,14.0,4,2,1,2,1,3,86.0,Ultra Premium,2,1,1,0,0,0,1,1,1
+Cabernet Franc,Australia,14.6,5,5,1,2,4,5,89.1,Ultra Premium,2,1,0,1,1,1,1,0,0
+Zinfandel,Argentina,11.9,2,4,5,2,5,3,95.3,Icon,12,1,0,1,1,1,0,1,0
+Bonarda,Australia,14.6,4,1,4,2,1,5,97.0,Premium,17,0,1,0,0,0,0,1,0
+Sangiovese,Australia,13.4,5,2,5,4,5,1,86.1,Entry,6,1,0,0,1,0,0,1,0
+Zinfandel,USA,14.6,1,3,4,3,3,2,91.6,Premium,14,0,1,1,1,1,0,0,0
+Syrah,Italy,13.3,4,5,4,3,5,5,96.2,Icon,15,0,0,1,1,1,0,1,0
+Chardonnay,Argentina,14.2,5,1,3,3,2,3,86.8,Ultra Premium,9,0,0,1,0,0,1,0,1
+Cabernet Franc,Chile,14.8,2,5,1,3,2,1,84.9,Icon,7,1,0,1,0,1,1,0,0
+Bonarda,France,12.3,3,1,5,5,4,1,91.2,Entry,17,0,1,1,1,1,1,0,0
+Sauvignon Blanc,Germany,11.1,2,4,1,4,2,3,84.5,Ultra Premium,14,0,0,1,1,0,1,0,1
+Chenin Blanc,Argentina,15.5,5,1,4,4,5,4,91.3,Entry,14,0,1,1,1,0,1,1,1
+Carmenere,Italy,11.3,1,5,1,3,1,1,96.3,Premium,2,1,1,0,0,0,0,1,0
+Pinot Noir,Portugal,11.4,2,2,1,4,5,5,94.6,Premium,12,0,0,0,1,1,1,0,0
+Syrah,USA,14.5,2,4,1,5,3,4,83.2,Ultra Premium,12,0,0,0,1,1,0,0,0
+Zinfandel,France,12.7,4,2,1,2,2,4,80.3,Icon,14,1,1,0,0,0,0,0,0
+Cabernet Sauvignon,France,13.3,5,4,4,2,2,5,93.7,Icon,10,1,1,0,0,0,0,0,0
+Chardonnay,Argentina,11.5,2,4,5,5,5,2,88.1,Icon,13,1,1,0,0,1,0,1,1
+Semillon,Argentina,12.4,3,4,1,1,5,2,81.1,Ultra Premium,17,1,1,0,1,1,0,0,1
+Malbec,Australia,15.2,2,2,1,4,5,3,90.2,Ultra Premium,8,0,0,1,0,0,1,1,1
+Zinfandel,Argentina,13.3,2,2,3,2,5,4,89.8,Premium,12,0,1,0,0,0,1,1,0
+Riesling,Portugal,11.4,4,1,4,4,4,1,94.7,Entry,4,1,0,0,0,0,0,1,1
+Zinfandel,France,11.6,4,1,1,4,5,4,90.4,Entry,19,0,0,1,1,0,1,1,1
+Merlot,Spain,12.1,2,5,1,5,4,4,81.7,Icon,6,0,1,1,0,0,0,0,1
+Syrah,Germany,15.2,2,2,2,2,2,2,95.7,Entry,1,1,1,0,0,1,1,1,0
+Carmenere,Chile,12.9,1,3,4,3,1,5,93.6,Ultra Premium,18,0,1,1,1,1,0,1,0
+Malbec,Portugal,14.2,5,1,3,4,5,2,92.6,Premium,16,0,0,0,1,1,1,0,0
+Riesling,Argentina,15.0,1,2,1,4,2,1,83.9,Entry,4,0,1,0,0,0,0,0,1
+Bonarda,Argentina,13.5,2,3,5,3,1,1,86.1,Icon,13,0,1,1,0,1,0,1,0
+Sauvignon Blanc,Germany,14.0,5,5,5,4,2,3,93.6,Icon,15,0,1,1,1,1,0,0,1
+Sauvignon Blanc,USA,15.1,2,2,4,3,3,5,98.0,Icon,2,1,0,1,0,0,0,1,1
+Bonarda,Argentina,12.5,2,3,1,1,5,3,83.3,Icon,10,0,0,1,1,1,1,1,0
+Malbec,USA,14.4,4,1,3,5,4,5,82.8,Icon,11,1,1,0,0,1,0,1,0
+Syrah,Spain,14.2,2,4,3,5,5,3,85.6,Icon,12,0,1,1,1,0,0,1,0
+Carmenere,Argentina,14.1,1,4,3,3,1,4,87.2,Entry,5,1,0,0,0,1,0,0,0
+Pinot Noir,Spain,13.6,5,5,4,3,5,1,93.9,Icon,7,0,0,0,0,1,1,0,0
+Garnacha,Australia,11.0,2,1,4,4,3,5,93.0,Premium,3,1,0,0,0,1,1,1,0
+Syrah,Italy,11.5,1,2,2,1,1,3,83.7,Ultra Premium,11,0,1,1,1,1,1,0,0
+Chenin Blanc,USA,15.4,3,3,4,2,3,3,84.5,Entry,1,1,0,0,0,1,1,0,1
+Riesling,Italy,14.4,2,2,5,3,3,3,91.0,Ultra Premium,4,0,1,0,0,1,0,0,1
+Zinfandel,Germany,12.5,2,4,1,3,4,1,84.1,Ultra Premium,6,1,1,1,0,0,1,0,1
+Torrontes,Italy,15.2,2,3,4,3,2,1,97.5,Entry,19,0,0,0,0,0,1,1,1
+Chenin Blanc,Germany,11.1,2,1,1,2,2,3,85.2,Ultra Premium,1,0,0,1,0,1,0,0,1
+Tempranillo,Chile,14.5,2,3,2,5,3,5,83.2,Premium,17,1,1,0,1,0,1,1,1
+Chenin Blanc,Argentina,11.5,2,3,4,2,4,1,87.9,Premium,1,1,1,1,0,1,0,1,1
+Merlot,Chile,15.5,5,2,3,2,3,4,86.3,Premium,1,0,0,1,1,0,1,1,0
+Sauvignon Blanc,USA,13.6,2,4,1,2,2,1,82.1,Ultra Premium,10,0,0,1,0,0,0,1,1
+Chardonnay,France,14.5,5,1,3,5,1,2,97.2,Icon,17,0,1,1,0,1,0,0,1
+Merlot,Australia,14.6,1,4,2,2,2,2,86.8,Entry,7,0,1,1,1,0,1,0,1
+Garnacha,Chile,14.4,1,2,1,2,3,5,87.6,Premium,1,1,0,1,0,1,1,0,0
+Syrah,Argentina,14.7,1,5,1,4,1,5,90.7,Premium,6,0,1,0,0,1,1,1,0
+Pinot Noir,USA,11.7,5,2,3,1,5,5,91.9,Entry,8,0,0,0,0,0,1,0,0
+Semillon,Spain,14.2,2,3,3,3,1,2,88.0,Premium,15,1,0,1,0,1,1,0,1
+Tempranillo,France,11.5,3,1,4,1,1,1,84.9,Icon,19,1,0,1,0,0,0,1,0
+Bonarda,Chile,13.4,2,4,2,4,1,1,81.6,Ultra Premium,6,0,0,0,0,0,1,0,1
+Cabernet Franc,Argentina,12.0,5,5,1,4,4,1,97.7,Entry,15,1,0,0,1,1,0,1,0
+Malbec,Argentina,11.8,2,1,2,2,1,5,97.3,Ultra Premium,11,1,1,1,0,0,1,0,1
+Sauvignon Blanc,Germany,12.8,3,2,3,4,4,4,85.3,Icon,10,1,0,1,1,1,0,0,1
+Sauvignon Blanc,USA,15.0,2,3,2,1,3,2,87.8,Icon,5,1,0,1,1,0,0,0,1
+Tempranillo,France,15.0,1,4,5,5,2,2,95.8,Premium,5,1,0,0,0,0,0,1,0
+Syrah,Australia,15.4,1,5,2,4,3,2,91.8,Entry,1,1,0,1,1,1,0,0,0
+Semillon,Argentina,11.8,2,3,5,1,5,3,97.0,Ultra Premium,18,1,0,1,0,1,0,0,1
+Riesling,Portugal,15.1,3,1,3,1,2,2,89.7,Icon,2,0,1,1,1,0,1,1,1
+Sauvignon Blanc,Portugal,12.1,4,1,4,2,1,1,87.6,Ultra Premium,8,0,0,0,0,0,0,1,1
+Carmenere,Portugal,14.4,4,3,1,5,2,2,81.6,Ultra Premium,6,1,1,1,0,1,0,0,0
+Bonarda,Spain,14.1,1,2,3,3,1,1,93.3,Entry,7,1,0,1,0,1,0,0,0
+Sangiovese,France,13.4,1,3,1,3,2,2,98.0,Icon,19,0,1,0,0,0,0,0,0
+Riesling,Italy,15.0,4,4,2,1,3,3,95.4,Entry,17,1,0,0,0,0,0,0,1
+Tempranillo,Argentina,13.0,4,1,2,3,2,5,96.0,Premium,15,1,1,0,0,1,1,1,0
+Chenin Blanc,Chile,12.2,4,2,4,5,1,1,80.1,Entry,15,1,0,0,1,1,1,1,1
+Bonarda,Chile,11.1,5,2,3,4,4,1,88.4,Premium,14,0,0,0,0,0,0,1,0
+Cabernet Franc,Chile,12.9,2,1,3,4,4,4,88.2,Premium,18,0,0,1,1,0,0,0,0
+Zinfandel,Chile,12.2,2,2,2,4,4,3,83.8,Ultra Premium,2,0,1,0,0,0,1,0,1
+Cabernet Sauvignon,France,11.6,4,2,1,4,1,5,94.8,Ultra Premium,12,0,0,1,0,1,1,0,0
+Cabernet Sauvignon,Chile,15.2,3,5,5,3,2,3,97.8,Entry,7,0,1,0,0,1,1,0,0
+Bonarda,Argentina,11.2,3,3,5,4,5,2,94.9,Ultra Premium,15,1,0,0,1,0,0,0,0
+Chardonnay,Spain,13.6,5,5,4,4,5,3,87.7,Premium,6,1,1,0,0,0,0,0,1
+Nebbiolo,Germany,11.1,4,1,5,3,5,4,91.0,Premium,10,0,0,0,0,0,0,1,0
+Semillon,France,12.7,5,1,3,3,4,4,96.2,Premium,5,0,0,1,1,1,0,0,1
+Carmenere,Germany,11.5,3,5,1,3,5,5,89.7,Ultra Premium,19,0,1,0,0,1,1,1,0
+Cabernet Franc,Italy,12.2,3,5,3,5,3,2,87.0,Ultra Premium,18,1,1,0,0,1,1,1,0
+Garnacha,Australia,14.6,1,3,3,4,4,4,94.8,Icon,19,0,0,0,1,1,1,1,0
+Sauvignon Blanc,Italy,11.2,1,4,2,1,5,1,82.4,Ultra Premium,9,1,1,1,1,0,1,1,1
+Cabernet Franc,Spain,12.4,1,1,5,1,5,3,88.8,Ultra Premium,13,1,1,0,1,0,1,1,0
+Merlot,USA,14.4,2,2,2,4,5,1,84.3,Entry,18,1,0,1,1,1,1,1,0
+Riesling,Portugal,11.2,5,1,4,2,3,4,93.2,Entry,10,0,1,1,0,0,1,0,1
+Pinot Noir,Chile,12.6,5,3,1,5,2,1,83.9,Premium,6,0,0,1,1,1,1,0,0
+Tempranillo,Germany,14.4,5,5,2,5,3,5,84.5,Entry,4,1,1,0,1,0,1,0,1
+Riesling,Italy,12.0,2,4,1,1,2,4,91.1,Premium,13,1,1,1,1,0,0,0,1
+Garnacha,Germany,11.2,2,3,3,2,3,3,88.2,Premium,6,0,1,0,1,0,0,0,0
+Chardonnay,Chile,11.5,3,5,1,4,2,4,90.1,Entry,5,1,1,1,0,0,0,0,1
+Cabernet Franc,France,12.0,2,2,3,3,2,1,84.7,Icon,19,1,0,1,0,0,0,0,0
+Merlot,Chile,13.5,1,2,1,1,2,4,86.7,Ultra Premium,15,0,1,0,0,0,0,1,0
+Carmenere,USA,12.7,2,5,2,1,5,4,91.2,Entry,5,0,1,1,1,1,0,1,0
+Malbec,Australia,12.3,2,3,1,3,3,5,94.8,Premium,11,0,1,1,1,1,0,1,0
+Zinfandel,USA,11.6,4,5,5,1,1,3,92.5,Ultra Premium,19,1,1,1,1,0,0,1,0
+Syrah,Australia,12.9,3,1,5,3,3,4,87.8,Entry,1,1,0,0,1,0,1,1,0
+Tempranillo,Chile,13.1,5,5,2,4,1,5,80.0,Icon,5,1,0,1,0,1,0,1,0
+Garnacha,Argentina,12.3,4,1,4,2,2,4,86.8,Ultra Premium,12,0,0,1,0,0,1,1,0
+Cabernet Franc,Italy,14.1,3,3,5,4,2,1,90.3,Entry,4,0,0,1,1,0,0,0,0
+Merlot,USA,13.2,4,1,3,4,1,3,86.2,Premium,6,0,0,0,1,0,0,0,0
+Chenin Blanc,Chile,15.2,5,5,2,3,3,4,87.2,Entry,11,0,0,0,0,0,1,0,1
+Torrontes,Portugal,12.7,2,4,4,3,5,1,96.3,Entry,15,1,1,1,1,1,1,1,1
+Zinfandel,Portugal,11.5,2,2,1,2,3,1,91.9,Premium,18,0,1,1,1,1,0,1,0
+Chenin Blanc,Argentina,14.9,4,2,5,5,2,1,95.5,Entry,10,0,1,1,1,1,1,0,1
+Garnacha,Portugal,15.5,2,1,2,3,3,4,86.8,Ultra Premium,6,1,0,0,0,0,1,0,1
+Sangiovese,USA,15.2,4,4,3,4,3,4,94.4,Entry,14,1,0,0,1,1,0,1,0
+Syrah,Chile,11.3,5,4,1,4,1,1,93.6,Ultra Premium,12,0,0,0,1,1,0,0,0
+Pinot Noir,Spain,11.1,5,4,4,1,3,2,82.2,Entry,10,0,1,1,0,0,1,0,0
+Pinot Noir,USA,11.9,2,3,5,1,1,1,96.7,Premium,16,1,0,0,1,1,1,0,0
+Bonarda,Italy,12.3,2,3,4,3,1,4,96.2,Entry,15,1,1,0,1,1,0,1,0
+Sangiovese,Italy,15.1,1,2,3,2,4,4,86.6,Icon,9,0,1,1,0,1,1,1,0
+Garnacha,Italy,15.3,2,1,5,3,4,5,80.7,Entry,14,0,0,1,1,0,1,1,0
+Syrah,France,15.3,4,2,3,3,4,2,83.6,Premium,1,0,1,0,0,1,1,0,0
+Carmenere,Portugal,11.2,1,3,5,4,2,1,89.9,Ultra Premium,9,1,1,1,1,0,1,0,0
+Malbec,Portugal,13.5,2,5,2,5,3,3,90.4,Premium,19,1,1,0,1,0,0,1,0
+Torrontes,Chile,14.6,5,4,1,2,5,2,93.9,Premium,11,0,1,1,0,0,0,1,1
+Carmenere,Germany,15.2,2,4,5,2,2,2,92.5,Icon,7,1,1,0,1,1,1,0,0
+Sangiovese,Italy,11.4,4,1,4,4,5,3,81.9,Entry,2,0,0,1,1,1,0,0,0
+Nebbiolo,Spain,12.9,4,5,1,5,2,1,87.0,Ultra Premium,19,0,0,0,0,0,1,0,1
+Cabernet Franc,Germany,13.2,2,5,4,1,4,2,97.3,Ultra Premium,7,1,0,1,0,0,0,0,0
+Merlot,Spain,11.8,2,4,5,2,2,2,84.7,Entry,4,1,0,0,0,1,0,0,0
+Pinot Noir,Australia,13.1,3,4,2,2,1,1,96.6,Ultra Premium,4,1,0,0,0,1,1,1,0
+Chenin Blanc,Chile,11.6,4,4,1,3,2,1,85.7,Entry,15,1,1,0,1,1,1,0,1
+Chenin Blanc,Australia,13.0,3,5,1,5,5,3,87.5,Entry,5,1,1,1,1,1,0,0,1
+Pinot Noir,USA,14.8,1,3,4,3,3,1,86.6,Ultra Premium,12,0,1,0,0,1,1,0,0
+Cabernet Sauvignon,Argentina,12.6,5,1,5,1,4,1,89.0,Ultra Premium,7,0,1,1,1,0,0,1,0
+Nebbiolo,Spain,14.0,1,1,1,4,2,2,88.3,Icon,9,0,1,1,0,0,1,1,1
+Pinot Noir,France,15.0,4,3,1,4,3,2,82.0,Ultra Premium,6,0,1,1,1,1,0,0,0
+Chardonnay,France,15.2,1,1,5,4,2,4,97.3,Entry,19,1,1,1,0,1,1,0,1
+Merlot,Chile,13.8,1,3,4,3,2,4,95.0,Ultra Premium,6,1,1,0,1,0,1,1,0
+Semillon,Italy,14.0,1,4,3,3,3,3,93.3,Icon,14,1,1,1,1,1,1,0,1
+Zinfandel,Germany,12.9,3,3,2,2,4,4,87.6,Entry,6,0,0,0,0,1,1,0,0
+Sangiovese,Germany,15.0,3,1,2,2,3,3,89.9,Premium,14,1,0,0,1,0,0,0,0
+Garnacha,USA,13.6,1,1,5,4,4,2,88.4,Premium,4,0,0,1,1,0,1,0,0
+Bonarda,Argentina,13.3,3,2,1,1,5,2,90.2,Entry,10,0,0,0,1,0,1,1,1
+Chardonnay,Italy,13.6,3,1,3,2,5,3,89.2,Entry,1,0,0,1,0,1,1,0,1
+Torrontes,Chile,12.6,3,1,1,1,4,2,94.8,Entry,19,1,1,0,1,1,1,1,1
+Cabernet Sauvignon,USA,13.9,1,4,5,2,3,2,84.6,Entry,13,1,1,1,1,1,1,0,0
+Garnacha,Chile,11.0,5,5,2,4,2,1,91.1,Icon,15,0,0,0,1,1,0,0,0
+Syrah,Argentina,11.4,2,2,2,3,4,1,85.6,Icon,16,1,0,1,0,1,1,0,0
+Merlot,Chile,13.5,4,5,4,3,1,2,93.9,Icon,7,0,1,1,0,0,0,1,0
+Bonarda,Spain,13.1,2,4,1,2,1,4,86.4,Icon,14,1,0,0,0,0,1,0,1
+Cabernet Sauvignon,Portugal,11.3,3,5,2,1,3,5,96.8,Icon,5,1,0,1,0,0,1,0,1
+Chardonnay,France,11.9,1,2,1,5,5,5,87.0,Entry,13,0,1,1,1,1,1,0,1
+Nebbiolo,Italy,14.3,5,3,1,5,2,2,94.4,Icon,7,1,1,0,0,1,0,0,0
+Chenin Blanc,Australia,14.2,3,4,1,3,3,5,81.2,Ultra Premium,14,0,0,1,0,1,1,1,1
+Garnacha,Spain,12.1,4,3,5,4,1,2,88.5,Entry,4,1,1,1,0,1,1,0,0
+Garnacha,Italy,13.8,3,1,4,3,3,1,95.4,Entry,18,0,0,0,0,0,1,0,0
+Carmenere,Chile,11.4,5,3,2,1,3,4,91.6,Premium,2,1,1,0,1,1,0,1,0
+Tempranillo,France,14.8,3,5,4,5,1,3,88.4,Ultra Premium,9,1,1,1,1,0,1,0,0
+Chardonnay,Chile,15.2,5,1,4,3,2,4,85.1,Icon,19,1,1,0,0,1,0,1,1
+Chardonnay,USA,13.1,5,1,2,3,5,2,80.8,Premium,18,1,1,0,0,0,1,1,1
+Sauvignon Blanc,Spain,13.6,1,3,3,2,5,1,92.7,Entry,15,1,0,0,0,0,1,1,1
+Nebbiolo,Italy,11.4,2,4,1,5,5,2,88.7,Ultra Premium,7,0,1,0,1,1,1,1,0
+Sauvignon Blanc,Italy,13.8,3,3,4,3,4,3,81.8,Premium,6,1,1,1,0,0,1,1,1
+Chenin Blanc,France,12.6,4,2,1,1,3,3,84.3,Icon,3,1,1,1,0,0,0,0,1
+Tempranillo,Italy,12.1,3,2,3,5,1,1,96.4,Ultra Premium,1,0,0,0,0,0,1,1,0
+Cabernet Franc,Portugal,15.0,5,3,3,2,5,4,88.8,Icon,1,1,1,0,0,1,1,1,0
+Merlot,Portugal,11.6,2,4,2,2,4,1,82.2,Entry,16,0,1,1,1,0,0,1,1
+Chardonnay,USA,14.0,5,3,4,2,4,4,86.4,Icon,16,0,1,0,1,1,1,1,1
+Syrah,Argentina,13.5,1,4,5,4,5,2,83.6,Ultra Premium,11,0,0,1,0,1,1,1,0
+Chardonnay,France,12.1,1,5,5,5,1,3,96.7,Premium,12,1,1,1,1,1,0,1,1
+Torrontes,Italy,12.4,3,1,2,3,2,5,94.2,Ultra Premium,16,0,1,1,0,0,0,1,1
+Carmenere,France,11.4,1,5,5,4,3,5,95.6,Ultra Premium,11,1,0,1,0,1,0,0,0
+Torrontes,Germany,15.2,3,4,5,1,1,3,83.8,Icon,18,0,1,1,1,0,1,0,1
+Garnacha,Chile,11.8,5,5,1,1,5,3,84.5,Entry,14,1,0,1,1,0,0,0,1
+Cabernet Sauvignon,France,14.5,5,5,1,2,4,4,92.2,Icon,11,1,1,1,1,0,1,0,1
+Sauvignon Blanc,France,11.7,2,4,1,3,2,5,93.9,Entry,9,1,0,0,1,1,1,0,1
+Syrah,Germany,13.7,5,4,5,5,1,4,96.1,Ultra Premium,12,0,0,0,1,0,0,1,0
+Semillon,Argentina,14.1,3,2,2,2,1,1,92.8,Entry,1,0,0,0,1,0,1,0,1
+Cabernet Sauvignon,Australia,14.9,4,5,2,4,4,2,94.6,Ultra Premium,5,0,1,1,0,0,1,1,1
+Torrontes,USA,12.9,2,4,3,2,3,1,90.6,Premium,4,1,0,0,1,0,1,1,1
+Bonarda,Portugal,13.9,4,5,2,4,3,3,80.6,Ultra Premium,4,1,0,0,0,1,0,0,0
+Sangiovese,Argentina,12.9,3,1,3,1,3,4,97.6,Ultra Premium,17,1,1,0,0,0,1,0,0
+Pinot Noir,USA,11.6,3,1,5,3,2,1,81.7,Ultra Premium,9,0,1,0,1,0,1,1,0
+Bonarda,Italy,12.4,5,2,3,5,5,5,80.3,Ultra Premium,12,1,0,0,1,1,0,0,0
+Malbec,Chile,15.0,3,5,5,4,1,3,86.2,Icon,8,1,0,1,0,1,1,1,0
+Pinot Noir,USA,14.2,4,1,1,2,4,2,84.6,Premium,16,1,1,1,0,0,0,0,1
+Garnacha,France,11.6,4,5,3,2,5,5,92.6,Premium,8,0,1,0,1,0,1,1,0
+Semillon,Argentina,14.8,5,4,1,3,1,5,93.7,Entry,16,0,1,1,0,1,0,0,1
+Chenin Blanc,Chile,11.8,5,4,4,2,1,2,97.6,Ultra Premium,2,0,1,0,1,0,1,1,1
+Chenin Blanc,USA,12.3,3,1,5,5,2,5,81.4,Icon,18,0,1,0,1,0,0,0,1
+Malbec,USA,14.2,1,1,3,5,1,5,86.5,Icon,11,0,1,0,1,1,1,1,0
+Malbec,Spain,13.9,3,5,5,2,4,3,89.8,Premium,4,1,0,0,1,1,1,0,0
+Malbec,Italy,14.8,2,1,3,1,5,5,81.4,Icon,6,0,0,1,0,0,0,1,0
+Bonarda,USA,13.5,1,2,4,2,3,3,91.7,Ultra Premium,8,1,0,1,0,1,0,0,0
+Nebbiolo,Portugal,14.6,2,5,5,2,1,5,93.9,Premium,15,0,0,1,0,0,0,1,0
+Cabernet Sauvignon,Chile,12.2,5,3,3,4,2,5,89.2,Premium,17,1,0,1,0,1,0,0,0
+Semillon,Portugal,13.6,1,4,5,3,2,2,82.4,Entry,10,0,1,0,1,0,0,1,1
+Cabernet Franc,Spain,11.4,4,1,5,1,5,5,89.9,Ultra Premium,5,1,0,0,1,0,0,1,0
+Chenin Blanc,Australia,14.5,2,4,5,3,4,5,95.8,Icon,11,0,0,1,0,1,1,1,1
+Riesling,France,13.7,2,1,4,4,1,3,86.9,Premium,8,0,1,1,0,0,1,1,1
+Chardonnay,Chile,14.4,4,5,1,1,5,4,94.6,Entry,18,0,1,1,1,1,0,0,1
+Riesling,Germany,14.1,4,2,5,2,4,4,85.5,Ultra Premium,4,1,0,0,1,0,1,0,1
+Semillon,USA,14.7,4,5,4,1,3,5,86.3,Entry,11,0,1,1,0,0,0,1,1
+Cabernet Franc,USA,13.3,4,4,2,1,1,5,88.9,Premium,17,1,0,1,1,0,1,1,1
+Nebbiolo,Chile,12.4,4,3,4,2,2,5,88.4,Ultra Premium,6,1,1,0,0,0,0,1,0
+Torrontes,Germany,13.9,1,3,2,1,4,2,95.0,Ultra Premium,15,0,1,1,0,0,0,0,1
+Cabernet Sauvignon,Italy,11.3,1,2,3,1,3,1,95.7,Icon,5,1,0,1,1,0,0,1,0
+Semillon,Portugal,15.2,5,1,5,1,4,4,85.7,Premium,10,1,0,0,1,0,1,0,1
+Bonarda,Spain,13.8,3,1,2,2,4,3,92.8,Ultra Premium,3,1,0,1,1,0,1,0,1
+Nebbiolo,Germany,13.1,1,4,2,4,2,4,84.8,Ultra Premium,13,0,1,0,1,0,1,1,1
+Torrontes,Italy,12.7,3,3,3,4,1,3,88.8,Entry,17,0,0,1,0,0,0,0,1
+Cabernet Franc,France,11.0,1,3,5,1,3,5,96.1,Ultra Premium,9,0,1,1,1,1,0,1,0
+Nebbiolo,Australia,14.6,4,4,1,3,4,2,92.2,Premium,7,1,0,1,1,0,0,1,1
+Riesling,Italy,12.3,4,4,4,2,2,5,81.7,Icon,16,0,1,1,0,1,0,0,1
+Sauvignon Blanc,Australia,11.3,3,1,2,1,4,5,83.1,Ultra Premium,1,0,1,0,1,0,0,1,1
+Sauvignon Blanc,Germany,12.1,1,4,4,3,1,1,92.0,Premium,2,1,0,1,0,0,0,0,1
+Torrontes,Italy,11.2,2,1,3,2,1,5,92.5,Premium,19,1,0,1,1,1,1,0,1
+Nebbiolo,Germany,14.6,2,1,4,1,5,1,91.8,Premium,8,0,0,1,1,0,1,1,0
+Chardonnay,Germany,12.7,4,5,2,5,4,3,95.5,Entry,16,0,1,1,1,0,0,1,1
+Chenin Blanc,USA,14.3,1,1,3,1,4,2,96.2,Icon,16,0,0,1,0,1,1,1,1
+Chenin Blanc,France,12.9,5,4,2,3,3,1,84.7,Premium,12,1,0,0,1,0,0,0,1
+Sauvignon Blanc,Argentina,14.0,4,2,1,3,3,4,87.3,Icon,5,1,0,1,0,0,1,1,1
+Nebbiolo,France,14.5,3,4,5,1,1,3,90.6,Ultra Premium,5,0,1,1,1,0,0,0,0
+Torrontes,Argentina,12.3,3,3,4,4,4,1,81.9,Icon,8,0,1,1,0,1,0,1,1
+Carmenere,Argentina,15.0,2,4,2,3,5,3,80.7,Entry,7,1,1,1,0,1,0,1,0
+Torrontes,Spain,13.7,5,5,3,1,5,2,94.9,Ultra Premium,10,0,0,0,1,0,0,1,1
+Sangiovese,USA,11.8,4,4,5,3,4,5,88.9,Premium,7,1,0,0,1,1,0,1,0
+Sauvignon Blanc,Italy,13.0,2,3,1,4,2,3,87.6,Ultra Premium,10,0,1,0,0,1,1,1,1
+Merlot,Italy,15.3,1,5,1,3,4,5,87.4,Entry,9,1,1,1,0,0,1,1,1
+Cabernet Sauvignon,Portugal,12.1,5,2,3,5,5,5,96.3,Ultra Premium,14,0,0,0,1,1,1,1,0
+Cabernet Franc,France,11.3,2,5,4,5,1,2,86.8,Ultra Premium,3,0,0,0,0,0,0,0,0
+Sangiovese,USA,12.5,4,2,3,3,1,5,87.0,Premium,19,1,1,1,1,1,1,0,0
+Chenin Blanc,Germany,11.1,1,3,1,5,1,3,97.8,Ultra Premium,9,0,0,1,0,1,1,1,1
+Cabernet Sauvignon,Spain,11.8,1,3,3,5,4,5,94.1,Entry,11,1,1,0,0,0,1,1,0
+Cabernet Franc,Chile,14.2,5,4,5,1,1,3,82.7,Premium,9,0,1,0,1,0,0,0,0
+Zinfandel,Australia,11.8,2,3,5,4,3,3,85.5,Entry,2,0,0,0,1,1,1,1,0
+Riesling,Chile,13.5,1,5,2,2,1,2,86.3,Ultra Premium,7,0,1,0,1,0,1,1,1
+Garnacha,Spain,14.1,4,1,5,3,2,2,88.7,Premium,14,0,0,1,0,1,1,0,0
+Semillon,Portugal,13.7,2,1,4,3,5,2,95.8,Ultra Premium,3,0,1,1,1,0,0,0,1
+Pinot Noir,Italy,12.4,1,1,1,3,2,3,92.2,Icon,13,0,0,1,1,0,1,1,1
+Cabernet Franc,Italy,13.1,1,1,1,3,5,1,85.7,Premium,15,0,1,0,0,1,1,1,0
+Nebbiolo,Australia,14.9,3,4,1,5,2,2,86.8,Premium,10,1,1,0,0,0,1,0,1
+Garnacha,USA,12.0,1,4,5,5,3,4,89.3,Ultra Premium,12,1,0,0,0,1,1,0,0
+Tempranillo,Argentina,13.5,3,2,2,2,4,4,82.0,Entry,15,1,1,1,0,1,0,1,0
+Bonarda,Argentina,14.9,2,3,2,2,1,3,82.0,Premium,14,0,0,0,1,1,1,0,0
+Cabernet Sauvignon,Australia,14.7,3,4,3,5,5,4,86.9,Premium,14,1,1,1,1,1,0,1,0
+Torrontes,Chile,12.6,1,1,1,4,1,3,84.8,Ultra Premium,6,1,0,0,0,0,1,0,1
+Chardonnay,France,15.4,5,1,3,2,5,5,81.7,Premium,2,1,0,0,1,0,1,1,1
+Chardonnay,Australia,15.2,2,5,2,5,5,1,92.2,Ultra Premium,7,1,0,1,1,0,1,1,1
+Tempranillo,France,15.0,5,5,2,2,4,4,95.4,Ultra Premium,19,0,1,1,1,0,0,1,1
+Carmenere,Germany,13.4,4,5,2,1,5,5,90.3,Entry,5,0,0,0,0,1,1,0,0
+Nebbiolo,France,11.3,5,1,2,4,1,1,84.8,Ultra Premium,17,0,1,1,0,1,0,0,0
+Syrah,Argentina,12.7,3,2,1,4,5,2,89.4,Ultra Premium,5,0,0,0,0,1,0,1,0
+Sauvignon Blanc,Australia,14.8,3,1,2,1,5,3,96.9,Icon,18,1,0,0,1,0,0,1,1
+Nebbiolo,Chile,15.4,4,3,3,2,4,5,88.0,Icon,8,1,1,0,1,1,1,1,0
+Riesling,USA,12.3,4,4,2,2,1,5,96.8,Premium,2,0,0,0,0,1,0,1,1
+Sauvignon Blanc,Italy,11.8,3,1,4,5,2,1,94.2,Entry,16,0,0,0,0,0,1,0,1
+Semillon,France,12.6,3,5,1,5,1,4,95.2,Ultra Premium,8,1,0,1,0,0,1,1,1
+Cabernet Franc,France,14.3,3,4,1,5,2,1,82.1,Ultra Premium,1,1,0,0,1,1,0,1,0
+Riesling,Germany,13.7,1,1,5,4,4,1,96.9,Premium,15,1,1,0,1,1,0,1,1
+Torrontes,Germany,11.4,1,3,4,2,2,2,90.6,Icon,6,1,1,1,0,1,1,0,1
+Sauvignon Blanc,Australia,14.2,2,2,1,4,5,4,82.1,Premium,15,0,0,1,0,0,1,1,1
+Zinfandel,Argentina,14.5,4,5,1,5,4,5,81.2,Ultra Premium,14,1,0,0,1,1,1,1,0
+Garnacha,Chile,13.6,2,2,5,3,2,4,95.1,Ultra Premium,16,1,1,0,0,0,1,0,0
+Garnacha,Chile,15.0,1,1,5,5,2,5,87.5,Premium,4,0,0,0,1,0,1,1,0
+Zinfandel,USA,11.6,4,2,4,4,3,4,90.9,Entry,5,1,0,0,0,0,0,1,0
+Malbec,Australia,13.2,5,2,4,2,2,5,95.3,Entry,6,0,0,1,0,1,0,1,0
+Sauvignon Blanc,Spain,14.4,4,1,3,5,1,1,96.9,Icon,11,0,1,0,1,0,0,1,1
+Cabernet Franc,Chile,12.8,4,5,5,4,4,3,93.4,Icon,3,0,0,1,0,0,0,0,0
+Malbec,Italy,11.8,3,4,4,1,3,1,92.7,Ultra Premium,1,0,1,0,1,0,0,0,0
+Cabernet Sauvignon,France,11.5,4,1,2,4,2,3,96.5,Entry,11,0,0,1,1,0,0,0,1
+Tempranillo,Germany,11.4,1,1,3,3,2,3,92.5,Premium,3,1,0,0,0,0,1,0,0
+Merlot,Spain,14.4,4,3,4,5,3,3,88.5,Premium,4,0,1,0,0,1,1,0,0
+Malbec,Chile,11.7,5,5,4,2,2,5,92.5,Entry,17,0,0,0,1,1,0,0,0
+Riesling,Australia,12.0,4,2,2,1,5,1,92.1,Premium,8,1,1,1,1,1,1,1,1
+Bonarda,Spain,11.6,2,2,3,2,5,5,82.5,Ultra Premium,12,1,0,1,0,1,1,0,0
+Zinfandel,Australia,12.8,3,2,5,2,3,5,81.3,Icon,4,0,1,0,1,1,1,0,0
+Cabernet Franc,France,12.0,4,5,5,2,2,5,85.7,Entry,13,1,1,0,1,1,1,1,0
+Carmenere,Spain,13.9,3,1,1,2,3,2,91.7,Premium,15,1,0,1,1,0,1,1,1
+Riesling,Argentina,15.2,3,1,5,4,2,2,82.0,Premium,9,0,1,0,0,1,0,1,1
+Torrontes,Argentina,12.8,5,5,5,5,2,5,85.4,Entry,19,0,0,1,0,1,0,1,1
+Semillon,Portugal,15.5,4,2,2,3,5,4,90.1,Entry,13,1,0,0,1,1,0,0,1
+Cabernet Sauvignon,Australia,11.7,2,1,3,5,4,3,84.4,Entry,3,1,1,1,0,1,0,1,0
+Pinot Noir,Chile,13.3,3,5,3,4,5,1,94.3,Entry,19,0,0,0,1,0,0,1,0
+Sauvignon Blanc,Argentina,11.3,5,2,4,2,2,4,95.6,Premium,9,0,0,0,1,1,1,1,1
+Sangiovese,Chile,11.1,3,3,3,5,4,3,98.0,Icon,3,1,0,0,1,0,1,0,0
+Nebbiolo,Italy,13.4,3,1,5,4,1,2,97.1,Ultra Premium,15,1,1,0,1,0,0,0,0
+Malbec,USA,15.4,2,3,3,2,1,2,91.6,Ultra Premium,5,1,1,1,0,1,1,0,0
+Riesling,Portugal,11.8,3,4,3,2,4,3,97.2,Ultra Premium,2,0,1,1,0,1,1,0,1
+Bonarda,Australia,11.8,5,2,2,5,3,3,88.1,Premium,14,0,1,0,0,1,1,0,0
+Torrontes,Germany,12.6,4,1,3,2,4,4,96.2,Premium,5,0,0,0,0,0,1,1,1
+Bonarda,Portugal,15.4,5,1,4,5,4,5,86.3,Premium,16,1,1,1,0,0,1,0,0
+Zinfandel,Argentina,12.3,4,3,1,1,3,1,88.7,Entry,4,1,0,1,0,0,1,0,1
+Tempranillo,Australia,13.5,4,1,2,2,1,1,83.4,Ultra Premium,9,1,1,1,1,0,0,1,1
+Zinfandel,Australia,14.2,3,4,3,2,5,2,84.1,Premium,15,0,1,1,1,0,1,1,0
+Tempranillo,Chile,13.7,2,1,4,4,1,1,95.2,Premium,17,1,0,1,0,1,0,0,0
+Pinot Noir,Italy,13.8,5,1,1,2,3,5,96.7,Icon,4,0,0,0,1,1,0,0,0
+Garnacha,Portugal,15.2,3,1,3,5,4,5,91.4,Entry,8,1,1,0,1,0,0,1,0
+Chardonnay,Portugal,13.4,3,3,1,2,3,2,91.8,Icon,1,1,0,0,1,0,1,1,1
+Merlot,Australia,13.5,5,3,3,4,1,2,86.4,Premium,6,0,0,1,1,0,0,1,0
+Riesling,France,11.7,4,4,4,2,1,1,97.6,Ultra Premium,13,0,0,0,1,0,1,1,1
+Semillon,Germany,15.0,4,4,4,5,1,2,88.4,Entry,3,1,1,1,0,1,1,1,1
+Pinot Noir,Argentina,13.6,1,2,1,1,2,5,89.9,Icon,8,0,1,0,1,0,0,0,0
+Nebbiolo,Australia,12.6,1,1,5,4,5,2,81.4,Icon,10,1,0,1,0,1,1,1,0
+Nebbiolo,Portugal,13.2,1,2,1,1,2,2,83.3,Icon,18,0,1,0,0,0,0,0,0
+Riesling,Australia,13.1,5,5,5,5,1,1,81.3,Ultra Premium,14,1,1,0,0,1,1,1,1
+Carmenere,Australia,13.2,1,1,1,1,4,3,92.4,Icon,8,1,0,0,1,0,1,0,1
+Torrontes,Portugal,15.5,3,5,2,3,1,4,84.1,Premium,15,0,1,1,1,0,0,1,1
+Garnacha,Portugal,13.1,3,2,4,5,2,5,90.7,Icon,3,0,0,0,0,1,1,0,0
+Cabernet Sauvignon,Germany,11.8,5,1,3,1,2,1,93.9,Ultra Premium,17,1,0,0,0,1,0,0,0
+Tempranillo,France,14.6,1,4,2,4,3,1,97.2,Premium,6,1,0,0,1,0,0,0,0
+Nebbiolo,France,15.3,4,3,1,4,4,3,84.5,Entry,6,0,0,1,0,0,1,0,1
+Bonarda,Argentina,11.9,4,1,2,4,3,2,91.0,Entry,15,0,0,1,0,1,0,1,0
+Malbec,France,14.4,2,2,3,2,3,2,81.5,Icon,18,1,1,1,1,0,0,0,0
+Merlot,USA,14.2,1,2,1,5,2,1,89.7,Ultra Premium,5,0,1,1,0,0,1,1,1
+Bonarda,France,13.2,3,5,4,5,3,2,95.8,Icon,6,1,0,1,1,0,1,0,0
+Semillon,USA,11.9,4,4,4,4,3,2,87.3,Ultra Premium,16,1,0,1,1,0,0,0,1
+Zinfandel,Italy,14.6,2,3,5,4,1,3,80.7,Entry,8,0,0,0,1,1,0,0,0
+Syrah,Australia,15.4,5,1,5,1,3,2,88.1,Icon,16,1,0,1,0,0,1,0,0
+Torrontes,Chile,13.9,1,1,5,3,1,2,95.6,Icon,16,1,0,0,0,0,1,1,1
+Merlot,Italy,11.5,1,3,1,1,3,2,89.5,Premium,10,0,1,0,1,1,1,0,0
+Torrontes,USA,12.3,2,1,2,2,3,1,97.1,Premium,19,0,0,1,0,1,0,0,1
+Sangiovese,Spain,11.0,4,5,1,2,4,2,93.3,Premium,19,0,0,0,1,0,0,0,0
+Merlot,Spain,14.3,4,2,2,2,3,2,89.1,Ultra Premium,5,1,0,1,1,0,1,0,1
+Sangiovese,Spain,14.2,5,3,5,1,4,3,81.7,Icon,17,0,1,1,0,0,1,0,0
+Semillon,Portugal,14.8,1,4,4,3,3,1,85.3,Icon,17,1,1,1,1,0,1,0,1
+Riesling,USA,13.5,4,2,2,1,1,1,81.8,Icon,16,0,1,1,1,0,1,1,1
+Garnacha,France,12.1,1,3,4,1,3,2,84.6,Ultra Premium,8,1,0,0,1,1,0,0,0
+Cabernet Franc,Germany,12.6,3,1,5,4,5,1,85.0,Premium,6,1,0,1,0,1,0,1,0
+Riesling,Portugal,12.4,4,5,2,5,4,4,86.7,Premium,18,1,1,0,0,1,0,1,1
+Sangiovese,Portugal,14.9,4,5,4,3,4,4,93.7,Premium,13,1,0,1,1,1,0,0,0
+Pinot Noir,Australia,14.6,3,1,5,5,3,3,90.4,Entry,13,0,1,1,0,0,0,0,0
+Cabernet Franc,Argentina,11.7,2,5,1,2,2,1,96.3,Icon,2,0,1,0,0,1,0,1,0
+Semillon,Portugal,11.4,2,4,1,4,4,4,94.4,Ultra Premium,5,1,1,1,0,1,1,1,1
+Sangiovese,Chile,13.1,2,4,2,1,5,5,95.9,Ultra Premium,17,0,1,0,0,1,0,1,0
+Carmenere,France,12.6,1,5,5,3,5,5,85.0,Icon,2,1,0,1,1,1,1,0,0
+Chardonnay,France,12.2,2,4,2,5,5,1,91.3,Ultra Premium,1,1,0,1,1,0,1,0,1
+Bonarda,Portugal,13.6,4,3,5,5,4,1,91.2,Entry,13,0,1,1,1,0,0,0,0
+Syrah,Portugal,14.9,1,3,5,3,4,4,96.0,Ultra Premium,17,0,0,0,1,0,0,1,0
+Torrontes,France,14.9,3,5,5,3,2,2,89.8,Premium,6,1,1,1,0,1,0,0,1
+Nebbiolo,USA,12.3,4,1,3,2,2,2,81.5,Icon,13,0,1,1,1,1,0,0,0
+Riesling,USA,14.5,1,4,2,3,3,2,90.5,Premium,16,1,0,1,0,1,0,1,1
+Tempranillo,USA,14.8,1,1,5,1,5,1,93.4,Icon,7,1,0,1,0,1,1,0,0
+Torrontes,USA,15.3,4,2,2,3,1,3,96.0,Ultra Premium,3,1,0,0,0,1,0,1,1
+Sangiovese,USA,15.4,5,2,3,2,4,1,90.9,Entry,14,0,1,0,0,0,0,1,0
+Nebbiolo,Chile,13.2,2,1,3,2,2,3,84.6,Entry,2,0,1,0,1,1,1,1,0
+Garnacha,Argentina,14.7,4,2,2,4,2,3,96.1,Ultra Premium,4,1,0,0,0,1,0,0,0
+Semillon,Spain,14.3,2,2,1,2,1,1,93.1,Entry,10,1,1,1,0,1,0,1,1
+Chardonnay,France,11.2,1,2,3,2,4,3,84.8,Ultra Premium,12,1,1,1,0,1,0,0,1
+Tempranillo,Portugal,14.5,2,4,1,4,2,3,84.4,Entry,5,1,0,0,0,0,1,0,1
+Tempranillo,USA,13.8,4,2,3,2,4,3,97.6,Entry,3,1,0,1,0,0,1,1,0
