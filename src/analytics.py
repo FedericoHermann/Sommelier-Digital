@@ -79,7 +79,7 @@ def plot_radar_chart(row, user_vector=None):
     ax.set_xticklabels(
         labels,
         color=text_color,
-        fontsize=5               # pequeño pero definido
+        fontsize=6               # pequeño pero definido
     )
 
     # centrado visual de etiquetas
