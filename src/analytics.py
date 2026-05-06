@@ -48,7 +48,7 @@ def plot_radar_chart(row, user_vector=None):
     # 4. COLORES
     # ======================================
     accent_color = "#CB2508"   # tono principal (vino)
-    text_color = "#BEBEBE"     # gris suave (sin halo)
+    text_color = "#B8B8B8"     # gris suave (sin halo)
 
     # Fondo consistente con la app
     fig.patch.set_facecolor("#0E1117")
@@ -99,7 +99,7 @@ def plot_radar_chart(row, user_vector=None):
     ax.grid(
         color="#444444",
         linestyle="dotted",
-        linewidth=0.35,            # muy fino
+        linewidth=0.5,            # muy fino
         alpha=0.5                  # suave
     )
 
