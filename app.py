@@ -298,7 +298,16 @@ if st.session_state.base_recommendations is not None:
         )
 
         fig = plot_radar_chart(row, st.session_state.user_vector)
-        st.pyplot(fig)
+        
+        # Guardar la figura en un buffer de memoria para evitar problemas de renderizado en Streamlit Cloud
+        import io
+
+        buf = io.BytesIO()
+        fig.savefig(buf, format="png", dpi=300, bbox_inches="tight", facecolor=fig.get_facecolor())
+        buf.seek(0)
+
+        st.image(buf)
+
 
         st.markdown("---")
 
