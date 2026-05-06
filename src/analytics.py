@@ -23,7 +23,8 @@ def plot_radar_chart(row, user_vector=None):
     angles += [angles[0]]
 
     # para cambiar tamaño
-    fig, ax = plt.subplots(figsize=(1, 1), subplot_kw=dict(polar=True))
+    fig = plt.figure(figsize=(3, 3), dpi=150)
+    ax = fig.add_axes((0.2, 0.2, 0.6, 0.6), polar=True)
 
     # para cambiar estilos de color 
     accent_color = "#E0430F"   
@@ -45,7 +46,7 @@ def plot_radar_chart(row, user_vector=None):
 
     # etiquetas
     ax.set_xticks(angles[:-1])
-    ax.set_xticklabels(labels, color="white", fontsize=2)
+    ax.set_xticklabels(labels, color="white", fontsize=5)
 
     # escala radial
     ax.set_yticks([1, 2, 3, 4, 5])
@@ -54,4 +55,6 @@ def plot_radar_chart(row, user_vector=None):
     # grilla en gris suave
     ax.grid(color="gray", linestyle="dotted", linewidth=0.3)
 
+    ax.tick_params(pad=2)
+    plt.tight_layout()
     return fig
