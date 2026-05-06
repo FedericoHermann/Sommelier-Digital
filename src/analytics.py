@@ -111,6 +111,6 @@ def plot_radar_chart(row, user_vector=None):
     # 9. ESPACIADO FINAL
     # ======================================
     # acerca labels al radar
-    ax.tick_params(pad=0.5)
+    ax.tick_params(pad=0.8)
 
     return fig
