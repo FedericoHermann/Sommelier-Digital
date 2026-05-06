@@ -306,7 +306,12 @@ if st.session_state.base_recommendations is not None:
         fig.savefig(buf, format="png", dpi=300, bbox_inches="tight", facecolor=fig.get_facecolor())
         buf.seek(0)
 
-        st.image(buf, width=300)
+
+        col1, col2, col3 = st.columns([1, 2, 1])
+
+        with col2:
+
+            st.image(buf, width=300)
 
 
         st.markdown("---")
