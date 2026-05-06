@@ -23,8 +23,9 @@ def plot_radar_chart(row, user_vector=None):
     angles += [angles[0]]
 
     # para cambiar tamaño
-    fig = plt.figure(figsize=(3, 3), dpi=300)
-    ax = fig.add_axes((0.2, 0.2, 0.6, 0.6), polar=True)
+    fig, ax = plt.subplots(figsize=(3, 3), dpi=150, subplot_kw=dict(polar=True))
+    fig.subplots_adjust(left=0.2, right=0.8, top=0.8, bottom=0.2)
+
 
     # para cambiar estilos de color 
     accent_color = "#E0430F"   
