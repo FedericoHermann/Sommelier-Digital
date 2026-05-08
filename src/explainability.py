@@ -42,7 +42,6 @@ PALATE_PHRASES = [
     "al recorrer el paladar se percibe"
 ]
 
-
 CLOSINGS = [
     "Es un vino que invita a beber con atención.",
     "Se disfruta con calma, dejando que el vino se despliegue.",
@@ -77,27 +76,103 @@ EASE_PHRASES = [
     "acompaña sin generar resistencias al paladar",
 ]
 
-STRUCTURAL_FEATURES = {
-    "acidity": "acidez",
-    "sweetness": "dulzor",
-    "tannin": "taninos",
-    "body": "cuerpo",
-    "persistence": "persistencia",
-    "complexity": "complejidad",
+# 🔥 NUEVO BLOQUE (frases dinámicas para pairing)
+PAIRING_PHRASES = {
+
+    "acidity_high": [
+        "su acidez limpia el paladar entre bocados",
+        "su frescura equilibra el conjunto",
+        "aporta tensión y dinamismo al plato",
+        "su acidez levanta la expresión del plato",
+        "refresca y aligera la experiencia",
+        "evita que el plato se vuelva pesado",
+        "mantiene el conjunto vibrante",
+        "resalta los matices del plato",
+        "acompaña con frescura la preparación",
+        "aporta energía al conjunto"
+    ],
+
+    "acidity_low": [
+        "su perfil suave respeta la baja acidez del plato",
+        "no introduce tensión innecesaria",
+        "acompaña con una acidez contenida",
+        "permite una experiencia más redonda",
+        "mantiene la suavidad del conjunto",
+        "se integra sin generar contraste ácido",
+        "refuerza un perfil más amable",
+        "acompaña una textura más envolvente",
+        "no altera el equilibrio del plato",
+        "sostiene una sensación más redondeada"
+    ],
+
+    "body_high": [
+        "su cuerpo acompaña la intensidad del plato",
+        "tiene estructura suficiente para sostener la preparación",
+        "su volumen llena el paladar en línea con el plato",
+        "acompaña la densidad del plato",
+        "sostiene la intensidad general",
+        "refuerza la presencia en boca",
+        "su peso está bien alineado con el plato",
+        "acompaña platos de mayor intensidad",
+        "no queda desplazado frente al plato",
+        "aporta consistencia al conjunto"
+    ],
+
+    "body_low": [
+        "su ligereza respeta la delicadeza del plato",
+        "acompaña sin imponerse",
+        "mantiene una sensación fluida",
+        "no satura el paladar",
+        "permite que el plato se exprese",
+        "acompaña con sutileza",
+        "refuerza la liviandad del plato",
+        "se integra con naturalidad",
+        "no compite con la preparación",
+        "mantiene equilibrio en boca"
+    ],
+
+    "complexity_high": [
+        "su complejidad acompaña la riqueza del plato",
+        "está a la altura de la elaboración",
+        "dialoga con los matices del plato",
+        "acompaña una propuesta más compleja",
+        "refuerza la profundidad del plato",
+        "ofrece capas que acompañan la experiencia",
+        "se integra en platos elaborados",
+        "acompaña múltiples matices",
+        "sostiene la complejidad general",
+        "aporta profundidad al conjunto"
+    ],
+
+    "complexity_low": [
+        "su perfil directo respeta la sencillez del plato",
+        "acompaña sin complejizar la experiencia",
+        "mantiene una lectura simple y clara",
+        "no introduce capas innecesarias",
+        "se alinea con un plato más simple",
+        "refuerza la claridad del conjunto",
+        "acompaña sin distracciones",
+        "mantiene un perfil accesible",
+        "se integra con naturalidad",
+        "respeta la pureza del plato"
+    ],
+
+    "general": [
+        "logra un buen equilibrio con el perfil del plato",
+        "se integra armónicamente en el conjunto",
+        "acompaña de forma coherente",
+        "funciona bien dentro del conjunto",
+        "mantiene una buena armonía general",
+        "encuentra balance con el plato",
+        "acompaña sin desentonar",
+        "se adapta al perfil del plato",
+        "sostiene el equilibrio global",
+        "acompaña de forma natural"
+    ]
 }
 
-AROMA_FEATURES = {
-    "aroma_red_fruit": "fruta roja",
-    "aroma_black_fruit": "fruta negra",
-    "aroma_white_yellow_fruit": "fruta blanca y amarilla",
-    "aroma_floral": "floral",
-    "aroma_spice": "especias",
-    "aroma_wood": "madera",
-    "aroma_mineral": "mineral",
-    "aroma_herbal": "herbal",
-}
-
-def explain_recommendation(row, user_vector):
+# agregamos context="sensory"
+def explain_recommendation(row, user_vector, context="sensory"):
     parts = []
 
     # -------------------------
@@ -105,19 +180,54 @@ def explain_recommendation(row, user_vector):
     # -------------------------
     intro_reasons = []
 
-    if user_vector is not None:
-        if user_vector[0] >= 0.6 and row["acidity"] >= 4:
-            intro_reasons.append("acompaña tu búsqueda de frescura y tensión en boca")
-        if user_vector[3] >= 0.6 and row["body"] >= 4:
-            intro_reasons.append("sostiene la estructura y presencia que definiste")
-        if user_vector[3] <= 0.4 and row["body"] <= 2:
-            intro_reasons.append("refuerza una sensación de ligereza y fluidez")
+    if context == "sensory":
 
-    if intro_reasons:
-        opening = random.choice(OPENINGS)
-        parts.append(f"{opening} " + " y ".join(intro_reasons) + ".")
-    else:
-        parts.append(random.choice(ROLE_PHRASES) + ".")
+        if user_vector is not None:
+            if user_vector[0] >= 0.6 and row["acidity"] >= 4:
+                intro_reasons.append("acompaña tu búsqueda de frescura y tensión en boca")
+            if user_vector[3] >= 0.6 and row["body"] >= 4:
+                intro_reasons.append("sostiene la estructura y presencia que definiste")
+            if user_vector[3] <= 0.4 and row["body"] <= 2:
+                intro_reasons.append("refuerza una sensación de ligereza y fluidez")
+
+        if intro_reasons:
+            opening = random.choice(OPENINGS)
+            parts.append(f"{opening} " + " y ".join(intro_reasons) + ".")
+        else:
+            parts.append(random.choice(ROLE_PHRASES) + ".")
+
+    else:  # 🍽️ MODO COMIDA
+
+        reasons = []
+
+        if user_vector is not None:
+
+            if user_vector[0] >= 0.6 and row["acidity"] >= 4:
+                reasons.append(random.choice(PAIRING_PHRASES["acidity_high"]))
+
+            if user_vector[0] <= 0.4 and row["acidity"] <= 2:
+                reasons.append(random.choice(PAIRING_PHRASES["acidity_low"]))
+
+            if user_vector[3] >= 0.6 and row["body"] >= 4:
+                reasons.append(random.choice(PAIRING_PHRASES["body_high"]))
+
+            if user_vector[3] <= 0.4 and row["body"] <= 2:
+                reasons.append(random.choice(PAIRING_PHRASES["body_low"]))
+
+            if user_vector[5] >= 0.6 and row["complexity"] >= 4:
+                reasons.append(random.choice(PAIRING_PHRASES["complexity_high"]))
+
+            if user_vector[5] <= 0.4 and row["complexity"] <= 2:
+                reasons.append(random.choice(PAIRING_PHRASES["complexity_low"]))
+
+        if not reasons:
+            reasons.append(random.choice(PAIRING_PHRASES["general"]))
+
+        parts.append(
+            "Este vino funciona muy bien con el perfil de tu plato porque "
+            + " y ".join(reasons)
+            + "."
+        )
 
     # -------------------------
     # NARIZ / EQUILIBRIO

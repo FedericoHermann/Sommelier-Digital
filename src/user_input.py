@@ -21,6 +21,7 @@ AROMA_MAPPING = {
     "herbal": "aroma_herbal",
 }
 
+
 def build_user_vector(
     acidity: int,
     sweetness: int,

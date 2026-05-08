@@ -1199,3 +1199,113 @@ Semillon,Spain,14.3,2,2,1,2,1,1,93.1,Entry,10,1,1,1,0,1,0,1,1
 Chardonnay,France,11.2,1,2,3,2,4,3,84.8,Ultra Premium,12,1,1,1,0,1,0,0,1
 Tempranillo,Portugal,14.5,2,4,1,4,2,3,84.4,Entry,5,1,0,0,0,0,1,0,1
 Tempranillo,USA,13.8,4,2,3,2,4,3,97.6,Entry,3,1,0,1,0,0,1,1,0
+Rose Blend,France,12.5,4,3,1,2,3,3,89.2,Premium,3,1,0,1,0,0,1,1,1
+Rose Blend,Spain,12.0,5,2,1,2,2,4,87.5,Entry,2,1,0,1,0,0,1,1,1
+Rose Blend,Italy,12.8,3,3,1,2,3,2,90.1,Premium,3,1,1,1,0,0,0,1,1
+Rose Blend,USA,13.2,4,2,1,3,3,3,91.0,Premium,2,1,1,1,1,0,0,1,1
+Rose Blend,Argentina,12.3,5,3,1,2,2,4,88.3,Entry,2,1,0,1,0,0,1,1,1
+Rose Blend,Portugal,12.7,4,2,1,2,2,3,86.9,Entry,2,1,0,1,1,0,1,1,1
+Rose Blend,Chile,12.4,5,3,1,2,3,4,89.7,Premium,3,1,0,1,0,0,1,0,1
+Rose Blend,Germany,11.9,4,4,1,2,3,3,88.1,Entry,3,1,0,1,0,0,1,1,1
+Rose Blend,Australia,13.1,3,2,1,3,3,2,90.8,Premium,2,1,1,1,0,0,0,1,1
+Rose Blend,France,12.6,4,3,1,2,2,3,89.5,Premium,3,1,0,1,0,0,1,1,1
+Rose Blend,Spain,12.2,5,2,1,2,2,4,87.9,Entry,2,1,0,1,0,0,1,1,1
+Rose Blend,Italy,12.9,3,3,1,2,3,3,91.4,Premium,3,1,1,1,0,0,0,1,1
+Rose Blend,USA,13.0,4,2,1,3,3,3,90.5,Premium,2,1,1,1,1,0,0,1,1
+Rose Blend,Argentina,12.5,5,3,1,2,2,4,88.7,Entry,2,1,0,1,0,0,1,1,1
+Rose Blend,Chile,12.3,5,2,1,2,2,4,87.8,Entry,2,1,0,1,0,0,1,1,1
+Rose Blend,Portugal,12.8,4,2,1,2,3,3,89.9,Premium,3,1,0,1,1,0,1,1,1
+Rose Blend,France,12.6,4,3,1,2,2,3,89.1,Premium,3,1,0,1,0,0,1,1,1
+Rose Blend,Australia,13.2,3,2,1,3,3,2,90.6,Premium,2,1,1,1,0,0,0,1,1
+Rose Blend,Italy,12.7,3,3,1,2,3,3,91.0,Premium,3,1,1,1,0,0,0,1,1
+Rose Blend,Germany,11.8,4,4,1,2,2,3,88.0,Entry,3,1,0,1,0,0,1,1,1
+Orange Wine,Italy,13.5,3,2,4,4,4,4,91.5,Premium,6,0,0,1,1,1,1,1,1
+Orange Wine,Georgia,13.8,3,1,5,4,5,5,93.2,Ultra Premium,8,0,0,1,1,1,1,1,1
+Orange Wine,Slovenia,13.2,4,2,4,3,5,4,92.1,Premium,6,0,0,1,1,1,1,1,1
+Orange Wine,France,13.0,4,2,4,3,4,4,90.4,Premium,5,0,0,1,1,1,1,1,1
+Orange Wine,Spain,13.3,3,1,5,4,5,5,91.9,Premium,7,0,0,1,1,1,1,1,1
+Orange Wine,USA,13.7,3,2,4,4,5,4,92.8,Ultra Premium,6,0,0,1,1,1,1,1,1
+Orange Wine,Argentina,13.4,4,2,4,3,4,4,90.7,Premium,5,0,0,1,1,1,1,1,1
+Orange Wine,Chile,13.1,4,2,4,3,4,4,89.9,Premium,5,0,0,1,1,1,1,1,1
+Orange Wine,Australia,13.6,3,2,5,4,5,5,92.0,Ultra Premium,7,0,0,1,1,1,1,1,1
+Orange Wine,Germany,12.9,4,2,4,3,4,4,90.2,Premium,5,0,0,1,1,1,1,1,1
+Orange Wine,Italy,13.5,3,1,5,4,5,5,93.4,Ultra Premium,8,0,0,1,1,1,1,1,1
+Orange Wine,Georgia,13.9,3,1,5,4,5,5,94.1,Ultra Premium,9,0,0,1,1,1,1,1,1
+Orange Wine,France,13.2,4,2,4,3,4,4,91.1,Premium,6,0,0,1,1,1,1,1,1
+Orange Wine,Spain,13.4,3,1,5,4,5,5,92.6,Premium,7,0,0,1,1,1,1,1,1
+Orange Wine,USA,13.6,3,2,4,4,4,4,91.9,Ultra Premium,6,0,0,1,1,1,1,1,1
+Orange Wine,Chile,13.2,4,2,4,3,4,4,90.5,Premium,5,0,0,1,1,1,1,1,1
+Orange Wine,Argentina,13.3,4,2,4,3,4,4,89.8,Premium,5,0,0,1,1,1,1,1,1
+Orange Wine,Australia,13.7,3,2,5,4,5,5,92.7,Ultra Premium,7,0,0,1,1,1,1,1,1
+Orange Wine,Italy,13.5,3,1,5,4,5,5,93.3,Ultra Premium,8,0,0,1,1,1,1,1,1
+Orange Wine,Slovenia,13.3,4,2,4,3,5,4,92.4,Premium,6,0,0,1,1,1,1,1,1
+Champagne,France,12.5,5,2,1,3,4,4,94.5,Icon,8,0,0,1,0,0,1,0,1
+Champagne,France,12.0,5,3,1,2,4,4,92.3,Premium,6,0,0,1,0,0,1,0,1
+Cava,Spain,11.8,5,2,1,2,3,3,90.1,Premium,4,0,0,1,0,0,1,0,1
+Cava,Spain,12.2,4,3,1,2,3,3,89.5,Entry,3,0,0,1,0,0,1,0,1
+Prosecco,Italy,11.5,4,3,1,2,2,2,88.7,Entry,2,0,0,1,0,0,0,0,1
+Prosecco,Italy,11.8,4,2,1,2,3,2,89.2,Premium,3,0,0,1,0,0,0,0,1
+Oporto,Portugal,19.5,2,5,3,5,5,5,95.8,Icon,20,1,1,0,1,1,0,0,0
+Oporto,Portugal,20.0,2,5,4,5,5,5,96.2,Icon,25,1,1,0,1,1,0,0,0
+Jerez,Spain,17.5,3,2,2,4,5,5,94.1,Premium,15,0,0,0,1,1,1,1,0
+Jerez,Spain,18.0,2,1,3,4,5,5,93.7,Premium,12,0,0,0,1,1,1,1,0
+Late harvest,France,11.0,4,5,1,3,4,5,92.9,Premium,10,1,0,1,0,0,0,0,1
+Late harvest,Germany,10.5,5,5,1,3,4,5,93.6,Premium,12,1,0,1,0,0,0,0,1
+Late harvest,Chile,11.2,4,5,1,3,4,5,91.8,Premium,8,1,0,1,0,0,0,0,1
+Champagne,France,12.3,5,2,1,3,4,4,93.4,Icon,7,0,0,1,0,0,1,0,1
+Cava,Spain,11.9,5,2,1,2,3,3,89.9,Premium,4,0,0,1,0,0,1,0,1
+Prosecco,Italy,11.6,4,3,1,2,2,2,88.3,Entry,2,0,0,1,0,0,0,0,1
+Oporto,Portugal,20.5,2,5,4,5,5,5,96.7,Icon,30,1,1,0,1,1,0,0,0
+Jerez,Spain,18.5,2,1,3,4,5,5,94.8,Premium,18,0,0,0,1,1,1,1,0
+Late harvest,Germany,10.8,5,5,1,3,4,5,93.1,Premium,11,1,0,1,0,0,0,0,1
+Champagne,France,12.4,5,2,1,3,4,4,94.0,Icon,9,0,0,1,0,0,1,0,1
+Cava,Spain,12.1,4,2,1,2,3,3,90.3,Premium,4,0,0,1,0,0,1,0,1
+Prosecco,Italy,11.7,4,3,1,2,2,2,89.0,Entry,2,0,0,1,0,0,0,0,1
+Oporto,Portugal,19.8,2,5,3,5,5,5,95.4,Icon,22,1,1,0,1,1,0,0,0
+Jerez,Spain,17.8,3,2,2,4,5,5,93.5,Premium,14,0,0,0,1,1,1,1,0
+Late harvest,France,11.1,4,5,1,3,4,5,92.4,Premium,9,1,0,1,0,0,0,0,1
+Rose Blend,France,12.4,5,2,1,2,3,3,89.8,Premium,2,1,0,1,0,0,1,0,1
+Rose Blend,Spain,12.1,5,3,1,2,2,4,88.2,Entry,2,1,0,1,0,0,1,0,1
+Rose Blend,Italy,12.8,4,2,1,2,3,3,90.5,Premium,3,1,1,1,0,0,0,1,1
+Rose Blend,USA,13.0,4,2,1,3,3,3,91.2,Premium,2,1,1,1,0,0,0,1,1
+Rose Blend,Argentina,12.5,5,3,1,2,2,4,88.6,Entry,2,1,0,1,0,0,1,0,1
+Rose Blend,Chile,12.6,5,2,1,2,3,4,89.9,Premium,3,1,0,1,0,0,1,0,1
+Rose Blend,Portugal,12.3,4,2,1,2,2,3,87.8,Entry,2,1,0,1,0,0,1,0,1
+Rose Blend,Germany,11.9,4,3,1,2,3,3,88.4,Entry,3,1,0,1,0,0,1,0,1
+Rose Blend,Australia,13.1,3,2,1,3,3,2,90.9,Premium,2,1,1,1,0,0,0,1,1
+Rose Blend,South Africa,12.7,4,2,1,2,3,3,89.3,Premium,2,1,0,1,0,0,1,0,1
+Rose Blend,France,12.6,5,2,1,2,2,3,89.7,Premium,3,1,0,1,0,0,1,0,1
+Rose Blend,Spain,12.4,5,3,1,2,2,4,87.9,Entry,2,1,0,1,0,0,1,0,1
+Rose Blend,Italy,12.9,4,2,1,2,3,3,90.8,Premium,3,1,1,1,0,0,0,1,1
+Rose Blend,USA,13.2,4,2,1,3,3,3,91.5,Premium,2,1,1,1,0,0,0,1,1
+Rose Blend,Argentina,12.5,5,2,1,2,2,4,88.8,Entry,2,1,0,1,0,0,1,0,1
+Rose Blend,Chile,12.3,5,2,1,2,3,4,89.5,Premium,3,1,0,1,0,0,1,0,1
+Rose Blend,Portugal,12.8,4,2,1,2,3,3,88.6,Premium,3,1,0,1,0,0,1,0,1
+Rose Blend,Germany,11.8,4,3,1,2,2,3,87.4,Entry,3,1,0,1,0,0,1,0,1
+Rose Blend,Australia,13.0,3,2,1,3,3,2,90.3,Premium,2,1,1,1,0,0,0,1,1
+Rose Blend,France,12.7,4,2,1,2,3,3,89.4,Premium,2,1,0,1,0,0,1,0,1
+Rose Blend,Spain,12.2,5,2,1,2,2,4,88.1,Entry,2,1,0,1,0,0,1,0,1
+Rose Blend,Italy,12.9,4,2,1,2,3,3,91.0,Premium,3,1,1,1,0,0,0,1,1
+Rose Blend,USA,13.1,4,2,1,3,3,3,90.7,Premium,2,1,1,1,0,0,0,1,1
+Rose Blend,Argentina,12.4,5,2,1,2,2,4,88.4,Entry,2,1,0,1,0,0,1,0,1
+Rose Blend,Chile,12.6,5,2,1,2,3,4,89.6,Premium,3,1,0,1,0,0,1,0,1
+Orange Wine,Georgia,13.8,3,1,5,4,5,5,93.5,Ultra Premium,8,0,0,1,1,1,1,1,1
+Orange Wine,Italy,13.5,3,2,4,4,4,4,91.8,Premium,6,0,0,1,1,1,1,1,1
+Orange Wine,Slovenia,13.3,4,2,4,3,5,4,92.2,Premium,6,0,0,1,1,1,1,1,1
+Orange Wine,France,13.1,4,2,4,3,4,4,90.7,Premium,5,0,0,1,1,1,1,1,1
+Orange Wine,Spain,13.4,3,1,5,4,5,5,92.5,Premium,7,0,0,1,1,1,1,1,1
+Orange Wine,USA,13.7,3,2,4,4,5,4,92.9,Ultra Premium,6,0,0,1,1,1,1,1,1
+Orange Wine,Argentina,13.4,4,2,4,3,4,4,90.9,Premium,5,0,0,1,1,1,1,1,1
+Orange Wine,Chile,13.2,4,2,4,3,4,4,90.2,Premium,5,0,0,1,1,1,1,1,1
+Orange Wine,Australia,13.6,3,2,5,4,5,5,92.4,Ultra Premium,7,0,0,1,1,1,1,1,1
+Orange Wine,Germany,13.0,4,2,4,3,4,4,90.5,Premium,5,0,0,1,1,1,1,1,1
+Orange Wine,Italy,13.5,3,1,5,4,5,5,93.7,Ultra Premium,8,0,0,1,1,1,1,1,1
+Orange Wine,Georgia,14.0,3,1,5,4,5,5,94.3,Ultra Premium,9,0,0,1,1,1,1,1,1
+Orange Wine,France,13.2,4,2,4,3,4,4,91.4,Premium,6,0,0,1,1,1,1,1,1
+Orange Wine,Spain,13.5,3,1,5,4,5,5,92.8,Premium,7,0,0,1,1,1,1,1,1
+Orange Wine,USA,13.6,3,2,4,4,4,4,92.1,Ultra Premium,6,0,0,1,1,1,1,1,1
+Orange Wine,Chile,13.2,4,2,4,3,4,4,90.8,Premium,5,0,0,1,1,1,1,1,1
+Orange Wine,Argentina,13.3,4,2,4,3,4,4,90.1,Premium,5,0,0,1,1,1,1,1,1
+Orange Wine,Australia,13.7,3,2,5,4,5,5,92.9,Ultra Premium,7,0,0,1,1,1,1,1,1
+Orange Wine,Italy,13.5,3,1,5,4,5,5,93.6,Ultra Premium,8,0,0,1,1,1,1,1,1
+Orange Wine,Slovenia,13.4,4,2,4,3,5,4,92.6,Premium,6,0,0,1,1,1,1,1,1
