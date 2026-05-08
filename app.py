@@ -157,12 +157,12 @@ if st.session_state.mode is None:
         <i>Ofrece una función de maridaje inverso, donde el usuario describe 
         las características de su plato y el sistema recomienda vinos que armonizan con él.</i><br>
 
-        Esta app fue desarrollada por Federico H. (para su Trabajo de Curso de Data Science I°) y Enologos Profesionales, 
+        Esta app fue desarrollada por Federico H. (para su Trabajo de Curso de Data Science I°) y Enólogos Profesionales, 
         combinando análisis de datos, machine learning y conocimiento enología para crear una experiencia única de descubrimiento Bacanal.<br><br>
 
         <i>¡Salud!</i><br>
 
-        🍷 <i>Agradecimientos especiales a los sommeliers que aportaron su expertise y grandes conocimientos: 
+        🍷 <i>Agradecimientos especiales a los Enólogos que aportaron su expertise y grandes conocimientos: 
         Ornella y Ezequiel.</i>🍷
         </div>
         """, unsafe_allow_html=True)
