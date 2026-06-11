@@ -9,6 +9,7 @@ from src.analytics import plot_radar_chart
 from src.explainability import explain_recommendation
 from src.pairing import suggest_pairing
 from src.pairing import render_pairing_screen
+from src import comparatives
 
 # =========================================================
 # IMPORT DEL LOGO
@@ -19,6 +20,8 @@ from pathlib import Path
 def load_logo_base64(path: str) -> str:
     with open(path, "rb") as img_file:
         return base64.b64encode(img_file.read()).decode("utf-8")
+    
+
 
 LOGO_BASE64 = load_logo_base64("static/logo.png")
 
@@ -31,11 +34,23 @@ from src.user_input import build_user_vector
 # =========================================================
 # CONFIGURACIÓN GENERAL
 # =========================================================
+
+from src.load_data import load_wine_data
+
 st.set_page_config(
     page_title="Sommelier Digital",
     page_icon="🍷",
     layout="centered"
 )
+
+
+@st.cache_data
+def load_data():
+    return load_wine_data()
+
+df = load_data()
+
+
 
 # Carga de tipografías (solo una vez)
 st.markdown(
@@ -131,7 +146,7 @@ if st.session_state.mode is None:
     st.markdown("---")
     
 
-    col1, col2 = st.columns(2)
+    col1, col2, col3 = st.columns(3)
 
     with col1:
         if st.button("🍷 Descubrí tu vino a través de los sentidos"):
@@ -143,6 +158,10 @@ if st.session_state.mode is None:
             st.session_state.mode = "pairing"
             st.rerun()
 
+    with col3:
+        if st.button("🍇 Conocé las características de tus varietales Favoritos"):
+            st.session_state.mode = "compare"
+            st.rerun()
 
     st.markdown("---")
 
@@ -536,6 +555,9 @@ if st.session_state.mode == "sensory":
 
 if st.session_state.mode == "pairing":
     render_pairing_screen()
+
+if st.session_state.mode == "compare":
+    comparatives.render_comparative(df)
 
 
 

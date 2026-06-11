@@ -205,8 +205,11 @@ def build_food_vector(fat_level, acid_level, sauce_level):
 # =========================================
 def render_pairing_screen():
 
-    st.title("🍽️ Maridaje inverso")
-
+    st.title("🍽️ Maridaje Inverso")
+    st.markdown(
+        "<p style='font-size:20px; font-style:italic; color:#b0b0b0;'>Encontrá el varietal para tu plato</p>",
+        unsafe_allow_html=True
+    )
     st.markdown("---")
     if st.button("← Volver"):
         st.session_state.mode = None
